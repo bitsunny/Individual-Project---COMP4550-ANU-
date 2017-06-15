@@ -1,0 +1,1000 @@
+javascript	language	JavaScript (not to be confused with Java or Jscript) is a dynamic, weakly-typed language used for client-side as well as server-side scripting
+java	programming language 	Java (not to be confused with JavaScript) is a general-purpose object-oriented programming language designed to be used in conjunction with the Java Virtual Machine (JVM)
+c#	language	C# is a multi-paradigm, managed, type safe, object-oriented programming language
+php	programming language 	PHP is a general-purpose programming language that is especially suited for web development.
+android IS NOT IN THE CATEGORY 
+jquery	JavaScript library 	jQuery is a popular cross-browser JavaScript library that facilitates DOM (Document Object Model - HTML Structure) traversal, event handling, animations, and AJAX interactions by minimizing the discrepancies across browsers and providing an easy-to-use API.
+python	language	Python is a dynamic and strongly typed programming language designed to emphasize usability
+html	markup language 	HTML (Hyper Text Markup Language) is the standard markup language used for structuring web pages and formatting content
+c++	programming language 	C++ is a general-purpose programming language based on C
+ios	operating system 	iOS is the mobile operating system running on the Apple iPhone, iPod touch, and iPad
+css	style sheet language 	CSS (Cascading Style Sheets) is a style sheet language used for describing the look and formatting of HTML (Hyper Text Markup Language) and XML (Extensible Markup Language) documents including (but not limited to) colors, layout, and fonts.
+mysql	open-source Relational Database Management System 	MySQL is a freely available, open source Relational Database Management System (RDBMS) that uses Structured Query Language (SQL)
+sql	language 	Structured Query Language (SQL) is a language for querying databases
+asp.net	Microsoft web application development framework 	ASP.NET is a Microsoft web application development framework that allows programmers to build dynamic web sites, web applications and web services.
+objective-c IS NOT IN THE CATEGORY 
+ruby-on-rails	web application framework 	Ruby on Rails is an open source full-stack web application framework written in Ruby
+.net	software framework 	The .NET framework is a software framework designed mainly for the Microsoft Windows operating system
+c	computer programming language 	C is a general-purpose computer programming language used for operating systems, libraries, games and other high performance work
+iphone IS NOT IN THE CATEGORY 
+angularjs	JavaScript framework 	AngularJS is an open-source JavaScript framework
+arrays	structure	An array is an ordered data structure consisting of a collection of elements (values or variables), each identified by one (single dimensional array or vector) or multiple indexes.
+sql-server	database management system 	Microsoft SQL Server is a relational database management system (RDBMS)
+json	data interchange format 	JSON (JavaScript Object Notation) is a textual data interchange format originally inspired by JavaScript objects
+ruby IS NOT IN THE CATEGORY 
+r	software environment 	R is a free, open-source programming language and software environment for statistical computing, bioinformatics, and graphics
+ajax	technique 	AJAX (Asynchronous JavaScript and XML) is a technique for creating seamless interactive websites via asynchronous data exchange between client and server
+regex	language	Regular expressions provide a declarative language to match patterns within strings
+node.js	I/O framework 	Node.js is an event-based, non-blocking, asynchronous I/O framework that uses Google's V8 JavaScript engine and libuv library
+xml	document	Extensible Markup Language (XML) is a flexible, structured document format that defines human- and machine-readable encoding rules
+asp.net-mvc	web application framework 	The ASP.NET MVC Framework is an open source web application framework and tooling that implements a version of the model-view-controller (MVC) pattern tailored towards web applications and built upon an ASP.NET technology foundation.
+linux	operating system 	GNU/Linux, commonly shortened as Linux, is an open source operating system
+django	web application framework 	Django is an open source web application framework, written in Python
+swift	programming language 	Swift is an open-source programming language developed by Apple
+wpf	model	Windows Presentation Foundation (WPF) provides developers with a unified programming model for building modern line-of-business desktop applications on Windows.
+database	database	A database is an organized collection of data typically used to model certain situations
+xcode	environment	Xcode is Apple's integrated development environment (IDE)
+excel IS NOT IN THE CATEGORY 
+string IS NOT IN THE CATEGORY 
+vb.net	language	Visual Basic.NET (VB.NET) is a multi-paradigm, managed, type-safe, object-oriented computer programming language
+wordpress	content management system 	WordPress is an open source content management system running on PHP and MySQL, and often used as a blog engine
+windows	systems	Windows is a family of client, server, and mobile operating systems developed by Microsoft
+eclipse	ide |platform	Eclipse is an open source IDE and platform for building applications
+spring	framework 	The Spring Framework is an open source framework for application development on the Java platform
+html5	umbrella term 	HTML5 (Hyper Text Markup Language, version 5) is an umbrella term for recent web technologies
+multithreading	program	Multi-threading is the ability of a computer or a program to perform work concurrently or asynchronously by utilizing multiple concurrent streams of execution (generally referred to as threads).
+git	control	Git is an open-source distributed version control system (DVCS)
+oracle	Database Management System 	Oracle Server is an Object-relational Database Management System (ORDBMS) created by Oracle Corporation
+forms	container 	A form is essentially a container that can be used to hold any amount of any subset of several types of data
+bash	Bourne shell implementation 	The Bourne-again shell (Bash) is a Bourne shell (sh) implementation with numerous additions
+image IS NOT IN THE CATEGORY 
+facebook	apps	Facebook Platform lets developers integrate their apps directly into the Facebook social networking service
+mongodb IS NOT IN THE CATEGORY 
+twitter-bootstrap	framework 	Bootstrap is a front-end framework designed to kick-start development of Web apps and sites
+osx	desktop operating system 	macOS (formerly known as OS X or Mac OS X) is the desktop operating system from Apple, found on Macintosh computers
+vba	programming language 	Visual Basic for Applications (VBA) is an event-driven, object-oriented programming language for writing macros, used for the entire Office suite as well as other applications
+winforms	class	WinForms is the informal name given to Windows Forms, a GUI class library in the Microsoft .NET Framework, which provides a user interface for programs designed to run on Windows machines.
+algorithm	algorithm	An algorithm is a sequence of well-defined steps that defines an abstract solution to a problem
+apache IS NOT IN THE CATEGORY 
+matlab	language |programming environment	MATLAB is a high-level language and interactive programming environment for numerical computation and visualization developed by MathWorks.
+performance IS NOT IN THE CATEGORY 
+swing	toolkit 	Swing is the primary user-interface toolkit in Java and is shipped with the standard Java SDK
+entity-framework	tools 	The ADO.NET Entity Framework is a set of Object-Relational-Mapping (ORM) tools for the .NET
+visual-studio	development environment 	Visual Studio is an integrated development environment (IDE) from Microsoft
+postgresql	database management system 	PostgreSQL is an open-source, object-relational database management system (ORDBMS) available for all major platforms including Linux, UNIX, Windows and OS X.
+linq	Microsoft .NET Framework component 	Language Integrated Query (LINQ) is a Microsoft .NET Framework component that adds native data querying capabilities to .NET languages
+python-2.7 IS NOT IN THE CATEGORY 
+scala	purpose programming language 	Scala is a general purpose programming language principally targeting the Java Virtual Machine
+hibernate	mapping library 	Hibernate is an object-relational mapping (ORM) library for the Java language enabling developers to utilize POJO-style domain models in their applications in ways extending well beyond Object/Relational Mapping.
+list IS NOT IN THE CATEGORY 
+css3	language	The third edition of the Cascading Style Sheets styling language (often shortened to CSS3) brings together powerful visual capabilities and versatile design manipulation techniques.
+ruby-on-rails-3	framework	Ruby on Rails is an open-source web development framework written in Ruby
+qt	application development framework 	Qt is a cross-platform application development framework widely used for the development of application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while having the power and speed of native applications
+excel-vba	programming language 	Excel-VBA (Visual Basic for Applications for Microsoft Excel) is the dominant programming language for Microsoft Office Excel.
+perl IS NOT IN THE CATEGORY 
+.htaccess IS NOT IN THE CATEGORY 
+web-services	software system 	A "web service" is a software system designed to support interoperable machine-to-machine interaction over the World Wide Web.
+function	function	A function (also called a procedure, method, subroutine, or routine) is a portion of code intended to carry out a single, specific task
+sqlite	software library 	SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+shell	class 	The term 'shell' refers to a general class of text-based interactive command interpreters most often associated with the Unix & Linux operating systems.
+laravel	application	Laravel is a free, open-source PHP web application framework, created by Taylor Otwell and intended for the development of web applications following the modela€“viewa€“controller architectural pattern
+file IS NOT IN THE CATEGORY 
+rest	software	REST (Representational State Transfer) is a style of software architecture for distributed hypermedia systems such as the World Wide Web
+codeigniter	PHP web development framework 	CodeIgniter is an open-source PHP web development framework created by EllisLab Inc and it has been adopted by British Columbia Institute of Technology
+api	library	DO NOT USE: Tag with the library you mean, [api-design], or something else appropriate instead.
+uitableview	class 	UITableView is a class used for displaying and editing lists of information on iOS
+cordova	development platform 	Cordova (formerly PhoneGap) is an open-source, cross-device mobile development platform that allows developers to create mobile applications using standard web technologies like HTML, JavaScript, and CSS that can be deployed to each device, rather than programming in each device's native language.
+sql-server-2008 IS NOT IN THE CATEGORY 
+maven	software project management |comprehension tool	Apache Maven is a software project management and comprehension tool
+google-maps	web mapping service application	Google Maps is a desktop and mobile web mapping service application and technology provided by Google, offering satellite imagery, street maps, and Street View perspectives
+python-3.x	language	Python 3 is the latest version of the Python programming language and was formally released on December 3rd, 2008
+visual-studio-2010	environment	Visual Studio 2010 is an integrated development environment (IDE) from Microsoft
+wcf	.NET Framework 	Windows Communication Foundation is a part of the .NET Framework that provides a unified programming model for rapidly building service-oriented applications.
+validation	process 	Data validation is the process of ensuring that a program operates on clean, correct and useful data.
+class	objects 	A template for creating new objects that describes the common state(s) and behavior(s)
+unit-testing	method 	Unit testing is a method by which individual units of source code are tested to determine if they are fit for use
+sockets IS NOT IN THE CATEGORY 
+symfony2 IS NOT IN THE CATEGORY 
+google-chrome	web browser 	Google Chrome is a web browser available on mobile, TV, and desktop platforms
+loops	control	Loops are a type of control flow structure in programming in which a series of statements may be executed repeatedly until some condition is met.
+jsp IS NOT IN THE CATEGORY 
+xaml	language 	Extensible Application Markup Language (XAML) is a declarative XML-based language used for
+tsql	extension 	T-SQL (Transact Structured Query Language) is the extension of SQL functionality supported by Sybase ASE and Microsoft SQL Server
+sorting	process 	Sorting is the process of applying some order to a collection of items.
+android-layout	structure 	A layout defines the visual structure for a user interface, such as the UI for an activity, fragment or app widget.
+date IS NOT IN THE CATEGORY 
+email	method 	Email is a method of exchanging digital messages from a sender to one or more recipients
+powershell	task automation |configuration management framework	Windows PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language built on the .NET Framework
+actionscript-3	object	ActionScript 3 (AS3) is the open source object oriented programming (OOP) language of the Adobe Flash and AIR Platforms.
+csv	file database format 	Comma-Separated Values or Character-Separated Values (CSV) is a standard "flat file database" format for storing tabular data in plain text, consisting of an optional header row that lists the table fields delimited by commas or tabs or other delimiter character, followed by one or more rows (newline separated) representing the table records as delimited lists of the values
+listview	screen control 	A ListView is a graphical screen control or widget provided by UI libraries in a majority of modern operating systems to show items in a list form.
+security IS NOT IN THE CATEGORY 
+http	application level network protocol 	Hypertext Transfer Protocol (HTTP) is an application level network protocol that is used for the transfer of content on the World Wide Web.
+asp.net-mvc-4	platform	ASP.NET MVC 4 is the fourth major version of the ASP.NET Model-View-Controller platform for web applications.
+spring-mvc	applications 	Based on the Model-View-Controller (MVC) pattern, Spring MVC helps you build web-based applications that are flexible and decoupled from the underlying view technologies.
+oop	programming paradigm 	Object-oriented programming is a programming paradigm using "objects": data structures consisting of data fields and methods together with their interactions.
+asp.net-mvc-3	extension	ASP.NET MVC 3 is the third major version of Model-View-Controller extension for developing web applications in a .NET framework.
+user-interface IS NOT IN THE CATEGORY 
+parsing IS NOT IN THE CATEGORY 
+delphi	language 	Delphi is a language for rapid development of native Windows, OS X, iOS, and Android applications through use of Object Pascal
+google-app-engine	applications	Google App Engine is a cloud computing technology for hosting web applications in Google-managed data centers
+azure	Platform 	Microsoft Azure (formerly Windows Azure) is a Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) cloud computing platform by Microsoft
+cocoa	application-development framework 	Cocoa is Apple's application-development framework for OS X, consisting of Foundation, Application Kit, and Core Data
+jquery-ui	jQuery user interface library 	jQuery UI is the official jQuery user interface library
+magento	e-commerce platform 	Magento is an e-commerce platform written in PHP atop the Zend framework, available under both open-source and commercial licenses.
+selenium	open-source tool 	Selenium is a popular open-source tool for automating web browsers
+datetime	DateTime object 	A DateTime object in many programming languages describes a date and a time of day.
+opencv	library 	OpenCV (Open Source Computer Vision) is a cross-platform library of programming functions for real time computer vision
+c++11 IS NOT IN THE CATEGORY 
+internet-explorer	web browser 	Internet Explorer (commonly abbreviated to IE or MSIE) is a web browser developed by Microsoft and is included as part of Microsoft Windows.
+flash IS NOT IN THE CATEGORY 
+debugging	process 	Debugging is a methodical process of finding and reducing the number of bugs, or defects, in a computer program.
+ipad	system	iPad is a tablet computer designed by Apple running the iOS operating system
+templates	templates	The templates tag is used in multiple contexts: generic programming (especially C++), and data/document generation using template engines
+cocoa-touch	Cocoa Touch Frameworks 	The Cocoa Touch Frameworks that drive iOS apps share many proven patterns found on the Mac, but were built with a special focus on touch-based interfaces and optimization.
+batch-file	commands	A batch file is a text file containing a series of commands that are executed by the command interpreter on MS-DOS, IBM OS/2, or Microsoft Windows systems.
+amazon-web-services	services 	Amazon Web Services (AWS) is a collection of commercial services centered around virtualized, commodity and clustered computing, networking, database and storage, as well as supporting tools that are offered through infrastructure as a service (IaaS).
+session	client	A session refers to all the requests that a single client makes to a server
+ruby-on-rails-4 IS NOT IN THE CATEGORY 
+android-studio IS NOT IN THE CATEGORY 
+pandas	Python library 	pandas is a Python library for Panel Data manipulation and analysis, e.g
+variables IS NOT IN THE CATEGORY 
+pointers IS NOT IN THE CATEGORY 
+unix	system	The Unix operating system is a general purpose OS that was developed by Bell Labs in the late 1960s and today exists in various versions
+ubuntu	server operating system	Ubuntu is a free desktop and server operating system based on Debian GNU/Linux
+object	object	An object is any entity that can be manipulated by commands in a programming language
+ms-access	database management system 	Microsoft Access, also known as Microsoft Office Access, is a database management system from Microsoft that commonly combines the relational Microsoft Jet/ACE Database Engine with a graphical user interface and software-development tools
+jsf	framework	JavaServer Faces (JSF) is a model-view-presenter framework typically used to create HTML form based web applications
+hadoop	Apache open-source project 	Hadoop is an Apache open-source project that provides software for reliable and scalable distributed computing
+tomcat IS NOT IN THE CATEGORY 
+numpy	extension	NumPy is a scientific and numerical computing extension to the Python programming language.
+haskell	programming language 	Haskell is an advanced functional programming language, featuring strong static typing, lazy evaluation, extensive parallelism and concurrency support, and unique abstraction capabilities.
+authentication	process 	Authentication is the process of determining whether someone or something is, in fact, who or what it is declared to be.
+android-fragments	interface	Fragments represent reusable behaviors or portions of user interface in an Android app.
+url	Uniform Resource Identifier 	A Uniform Resource Locator (URL) is a Uniform Resource Identifier (URI) that specifies where an identified resource is available and the mechanism for retrieving it.
+pdf	document	Portable Document Format (PDF) is an open standard for electronic document exchange maintained by the International Organization for Standardization (ISO)
+facebook-graph-api	API 	Facebook Graph API is a structured API for fetching objects and the connections between them from Facebook's social graph
+firefox	web browser	Firefox is a free, open source and cross-platform web browser created by Mozilla.
+if-statement	structure 	An "if" statement is a control structure in many programming languages that changes the execution flow depending on a condition.
+dictionary	data structure 	A dictionary (or map) in computer science is a data structure that maps keys to values such that given a key its corresponding value can be efficiently retrieved
+reactjs	JavaScript library 	React is a JavaScript library for building user interfaces
+for-loop	structure 	A for loop is a control structure used by many programming languages to iterate over a range
+animation IS NOT IN THE CATEGORY 
+generics IS NOT IN THE CATEGORY 
+winapi	core application programming interfaces 	The Windows API (formerly called the Win32 API) is the core set of application programming interfaces available for the Microsoft Windows operating systems
+jpa	database	The Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects/classes and a relational database
+express	features 	Express is a minimal and flexible Node.js web application framework, providing a robust set of features for building web applications.
+redirect IS NOT IN THE CATEGORY 
+angular2	framework	The second version of the AngularJS web framework
+ssl	protocol 	Secure Sockets Layer (SSL) is a cryptographic protocol that provides secure communications over the Internet
+silverlight	platform	Silverlight is Microsoft's cross-browser, cross platform plug-in for media experiences and rich interactive applications.
+cakephp	development framework 	CakePHP is a rapid development framework for PHP that provides an extensible architecture for developing, maintaining, and deploying applications
+opengl	api	OpenGL (Open Graphics Library) is a graphics standard and API which is platform independent and available for desktop, workstation and mobile devices
+exception	exception	An exception is a rarely occurring (exceptional!) condition that requires deviation from the program's normal flow
+events	event	An event is a way for a class to provide notifications to listeners when a particular thing happens.
+servlets	programs 	Servlets are programs that run on a Web or Application server and act as a middle layer between a request coming from a Web browser or other HTTP client and databases or applications on the HTTP server.
+mod-rewrite	module 	URL rewriting module for the Apache web server
+inheritance	system 	Inheritance is the system in object oriented programming that allows objects to support operations defined by anterior types without having to provide their own definition
+xslt	transformation language 	XSLT is a transformation language for XML designed to transform structured documents into other formats (such as XML, HTML, and plain text)
+caching	mechanism 	A cache is a mechanism for temporarily storing (caching) data locally in order to reduce access time to data stored far away
+grails	application	Grails is an Open Source, full stack, web application framework that uses the Groovy programming language (which is in turn based on the Java virtual machine (JVM) and Java
+dom IS NOT IN THE CATEGORY 
+curl	computer software project 	cURL is a computer software project providing a library and command-line tool for transferring data using various protocols such as HTTP, FTP and SFTP
+select	keyword 	Select is a common keyword used to query data
+testing	attribute	Software testing is any activity aimed at evaluating an attribute or capability of a program or system and determining that it meets its required results.
+iis	web server 	Internet Information Services (IIS) is a web server created by Microsoft for use with Microsoft Windows
+math IS NOT IN THE CATEGORY 
+java-ee	server	Java Enterprise Edition (Java EE) is a specification defining a collection of Java-based server and client technologies and how they interoperate
+search IS NOT IN THE CATEGORY 
+button	user interfaces 	Buttons are simple elements in graphical user interfaces that take mouse clicks or finger taps (on mobile devices) as input.
+post	protocol	POST is one of the HTTP protocol methods; it is used when the client needs to send data to the server, such as when uploading a file, or submitting a completed form.
+gcc	GNU Compiler Collection 	GCC is the GNU Compiler Collection
+join	operation 	A join is a general operation in relational algebra for a combining operation on two or more relations in a relational database system
+asynchronous	software	Asynchronous programming is a strategy for deferring operations with high latency or low priority, usually in an attempt to improve performance, responsiveness, and / or composability of software
+flex	framework 	Apache Flex (not to be confused with Flexbox) is a framework for developing Rich Internet Applications that run in Flash Player or Adobe Air
+audio	formats	Sound and programming audio hardware, and the various audio formats or containers
+meteor	platform 	Meteor is a modular platform for developing web and mobile applications in JavaScript based on the NodeJS platform.
+stored-procedures	applications	A subroutine available to applications accessing a relational database system.
+svn	revision control system 	Subversion is a centralized open-source revision control system
+video IS NOT IN THE CATEGORY 
+c#-4.0	features	C# 4.0 introduced features like dynamic objects, COM interoperability improvements, generic co- and contra-variance, optional and named parameters
+android-intent IS NOT IN THE CATEGORY 
+networking IS NOT IN THE CATEGORY 
+image-processing IS NOT IN THE CATEGORY 
+recursion	method 	Recursion is a method of problem solving where the solution to a problem depends on solutions to smaller instances of the same problem
+canvas	element 	Canvas is a generic element for free-form graphics output.
+d3.js	JavaScript data visualization library 	D3.js is a small, open-source JavaScript data visualization library for manipulating HTML, SVG, and CSS documents based on data.
+visual-c++	c++/cli compiler	Microsoft Visual C++ is a C, C++ and C++/CLI compiler for Windows
+memory IS NOT IN THE CATEGORY 
+iframe	HTML element 	An 'iframe' is an HTML element that creates an "inline frame" within a document, which allows displaying a separate document in the same page.
+assembly	language	Assembly language (asm) programming questions
+logging	process	Computer data logging is the process of recording events in a computer program, usually with a certain scope, in order to provide an audit trail that can be used to understand the activity of the system and to diagnose problems.
+android-activity IS NOT IN THE CATEGORY 
+core-data	object modeling |persistence framework	Core Data is Apple's object modeling and persistence framework for OS X and iOS
+razor	template language 	Razor is a template language used by ASP.NET Web Pages and ASP.NET MVC (since version 3)
+design-patterns	solution 	A design pattern (not to be confused with a regular expression pattern) is a general reusable solution to a commonly occurring problem in software design.
+visual-studio-2012 IS NOT IN THE CATEGORY 
+gridview	control 	A Gridview is a control for displaying and manipulating data from a variety of data sources.
+jquery-mobile	web framework 	jQuery Mobile is a touch-optimized web framework for smartphones and tablets
+cookies	browser	An HTTP cookie is a piece of data stored by the user's web browser
+heroku	cloud platform 	Heroku is a cloud platform for Ruby, Node.js, Python, Go, PHP, and JVM-based applications.
+activerecord	pattern 	Active Record is a pattern that combines domain logic with storage abstraction in single object
+encryption	process 	Encryption is the process of transforming information (called plaintext) into an unreadable form (called ciphertext) using an encryption algorithm combined with a parameter (called an encryption key)
+nginx	proxy	Nginx ("engine x") is a lightweight, high-performance HTTP server, reverse proxy, TCP stream proxy and mail proxy, released under a BSD-like license.
+matrix	matrix	In mathematics, a matrix (plural matrices) is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns
+svg	vector graphics format 	SVG (Scalable Vector Graphics) is an XML-based two-dimensional vector graphics format that can also be used inline in HTML.
+optimization	act 	Optimization is the act of improving a method or design
+elasticsearch IS NOT IN THE CATEGORY 
+xpath	document	The primary purpose of XPath is to address parts of an XML document
+serialization	process 	Serialization is the process by which data-structures are converted into a format that can be easily stored or transmitted and subsequently reconstructed.
+github	software development projects 	GitHub is a web-based hosting service for software development projects that use Git for version control
+model-view-controller	pattern 	Modela€“Viewa€“Controller (MVC) is an architectural pattern used in software engineering
+unity3d	game engine 	Unity is a cross-platform game engine with a built-in IDE developed by Unity Technologies
+mobile IS NOT IN THE CATEGORY 
+sharepoint IS NOT IN THE CATEGORY 
+extjs	JavaScript framework 	Sencha ExtJS is a JavaScript framework for building Rich Internet Applications (RIAs).
+apache-spark	cluster computing system 	Apache Spark is an open source cluster computing system for large-scale data analytics computing.
+jdbc	base API 	JDBC (Java DataBase Connectivity) is the base API which enables interacting with SQL database servers by executing SQL statements using the Java programming language.
+web IS NOT IN THE CATEGORY 
+soap	protocol specification 	Simple Object Access Protocol (SOAP) is a protocol specification for exchanging structured information in the implementation of Web Services.
+asp.net-web-api	framework 	ASP.NET Web API is a framework for building HTTP services for clients like browsers and mobile devices
+arraylist	implementation 	Resizable-array implementation of the List interface in Java.
+matplotlib	library	Matplotlib is a plotting library for Python which may be used interactively or embedded in stand-alone GUIs
+vim	editor	Vim is a free and open-source modal text editor available for most major platforms
+layout IS NOT IN THE CATEGORY 
+google-maps-api-3 IS NOT IN THE CATEGORY 
+ember.js	MVC application framework 	Ember.js is an MVC application framework written in JavaScript.
+backbone.js	JavaScript framework 	Backbone.js is a JavaScript framework with a RESTful JSON interface and is based on the modela€“viewa€“presenter (MVP) application design paradigm
+checkbox	user interface element 	A checkbox is a graphical user interface element that permits the user to make a binary selection.
+table IS NOT IN THE CATEGORY 
+memory-management	program	Process of dynamically allocating and freeing portions of physical memory in order to respond to program requests with, if possible, fairness and no starvation among the requesters.
+windows-phone-7	system	Windows Phone is Microsoft's mobile operating system and software development platform
+multidimensional-array IS NOT IN THE CATEGORY 
+vector	components	A vector is a single-dimensional array: it contains components that can be accessed using an integral index
+typescript	interfaces	TypeScript is a typed superset of JavaScript created by Microsoft that adds optional types, classes, interfaces and modules and compiles to plain JavaScript
+zend-framework	web application framework 	Zend Framework is an open source, object-oriented web application framework implemented in PHP 5 and licensed under the New BSD License
+gwt	development toolkit 	GWT (formerly the Google Web Toolkit) is a development toolkit for building and optimizing complex browser-based applications
+twitter	microblogging service 	Twitter is a microblogging service that lets users post "tweets" of up to 140 characters
+boost	libraries 	Boost is a large collection of high-quality libraries intended for use in C++
+text	characters	Text is a sequence of characters that is most often used to represent a cohesive piece of information.
+file-upload	action 	a method or action of transferring a file from a client to a server.
+random IS NOT IN THE CATEGORY 
+intellij-idea	IDE 	IntelliJ IDEA is an IDE by JetBrains
+go	programming language 	Go is an open source programming language initially developed at Google
+netbeans	platform framework 	NetBeans refers to both a platform framework for Java desktop applications, and an integrated development environment (IDE) for developing with Java and other languages.
+jenkins	integration tool 	Jenkins is an open source continuous integration tool written in Java, that has packages for Linux, Mac OS X, Windows, FreeBSD and OpenBSD
+input	application	Input is usually related to user input, i.e., to the data that user supplies to a running application
+gradle	project 	Gradle is a project build automation tool that uses a Groovy DSL
+mvvm	design pattern 	Model View ViewModel (MVVM) is an architectural design pattern for implementing user interfaces that separates the page (the View) from data (the Model) by way of its presentation logic (its ViewModel).
+selenium-webdriver	WebDriver API 	Selenium-WebDriver provides the WebDriver API for controlling browsers in different programming languages ("language bindings")
+methods	method	A method (often called function, routine or procedure) is code that performs a task and is associated with a class or an object.
+mysqli	PHP database driver 	The mysqli PHP extension (a€?MySQL improveda€?) is a PHP database driver, included since PHP 5
+browser	software application 	A web browser or Internet browser is a software application for retrieving, presenting, and traversing information resources on the World Wide Web.
+parse.com	applications	Parse provides an open source backend and SDKs for mobile and desktop applications
+dynamic	term that 	Dynamic is a widely used term that, in general, describes a decision made by the program at run-time rather than at compile time.
+design	act 	Design in programming is the act of making particular choices about how best to structure a program, to achieve goals of reliability, maintainability, correctness or ease of use.
+dll	module 	A dynamic-link library (DLL) is a module that contains functions and data that can be used by another module (application or DLL)
+windows-phone-8 IS NOT IN THE CATEGORY 
+xamarin	software company 	Xamarin is a software company, acquired by Microsoft in February 2016, which was created by the engineers behind Mono, Xamarin.iOS (formerly MonoTouch), Xamarin.Android (formerly Mono for Android), Xamarin.Mac (formerly MonoMac) and Xamarin Studio (a cross-platform IDE forked from MonoDevelop)
+sql-server-2005 IS NOT IN THE CATEGORY 
+visual-studio-2013 IS NOT IN THE CATEGORY 
+indexing	technique 	Indexing data structures is a general technique to improve the speed of data lookups.
+nhibernate	mapper 	NHibernate is a mature, open source object-relational mapper (ORM) for the .NET framework
+plugins	software components 	A plug-in (or plugin) is a set of software components that adds specific abilities to a larger software application
+docker	applications 	Docker provides a high-level API to containerize unix processes and applications with some degree of isolation and repeatability across servers.
+javafx	Rich Internet Applications 	The JavaFX platform enables developers to create and deploy Rich Internet Applications (RIA) that behave consistently across multiple platforms and browsers
+data-structures	structure	A data structure is a way of organizing data in a fashion that allows particular properties of that data to be queried and/or updated efficiently.
+database-design	process 	Database design is the process of specifying the logical and/or physical parts of a database
+drupal	CMS framework 	Drupal is an open source CMS framework written in PHP
+file-io IS NOT IN THE CATEGORY 
+reflection	program	Reflection is the ability of a program to observe and/or modify its structure and/or behavior at runtime.
+pdo	database abstraction layer 	PDO (PHP Data Objects) is a database abstraction layer for PHP.
+plot	function	The graphical representation of a mathematical function or a set of data
+knockout.js	JavaScript library 	Knockout.js is an open source JavaScript library for dynamic HTML UIs using the Model-View-View Model (MVVM) pattern.
+firebase	development platform 	Firebase is a unified mobile development platform from Google
+reporting-services	report generator 	SQL Server Reporting Services (SSRS) is server-based report generator from Microsoft
+web-applications	applications 	Web applications are applications that are accessed over the "web", which can be over Internet, or Intranet i.e
+unicode	characters	Unicode is a standard for the encoding, representation and handling of text with the intention of supporting all the characters required for written text incorporating all writing systems, technical symbols and punctuation.
+awk	language	AWK is an interpreted programming language designed for text processing and typically used as a data extraction and reporting tool.
+time	operation	Measuring the time it takes to perform an operation
+dataframe	data structure 	A data frame is a tabular data structure
+data-binding	technique 	A general technique that binds two data/information sources together and maintains them in sync.
+hash	function	A hash function is any well-defined procedure or mathematical function that converts a large amount of data into a small datum, usually a single integer
+service	functions	A Service is a long-running executable that performs specific functions and which is designed not to require user intervention.
+twitter-bootstrap-3	framework	Bootstrap 3 is the third generation of the front-end framework allowing for speedier web development with an attractive look and feel
+ionic-framework	framework 	Ionic is a front-end framework for developing native-feeling hybrid mobile apps in HTML5 using Sass and AngularJS
+amazon-s3	storage service 	Amazon S3 (simple storage service) is an online storage service from Amazon Web Services.
+groovy	programming language 	Groovy is an object-oriented programming language for the Java platform
+struct	keyword 	A keyword in the C family of languages for declaring a structured composite data type.
+ssh IS NOT IN THE CATEGORY 
+paypal	process	PayPal provides APIs to process payments, manage invoices, accounts, and more
+drop-down-menu	interface	A user interface control GUI element, similar to a list box, which allows the user to choose one value from a list
+encoding IS NOT IN THE CATEGORY 
+graph IS NOT IN THE CATEGORY 
+primefaces	JSF component library 	PrimeFaces is a JSF component library that ships with a large set of rich components which utilizes jQuery and jQuery UI under the covers
+replace	action 	Replacing is the action of searching a string for a sub-string and replacing it with a different string.
+sed	command line editor 	Sed (Stream EDitor) is a command line editor for POSIX environment
+login	process 	A login or logon (also called logging in or on and signing in or on) is the process by which individual access to a computer system is controlled by identification of the user using credentials provided by the user
+jsf-2	framework	JavaServer Faces (JSF) is a model-view-presenter framework typically used to create web applications
+collections	interfaces 	Collections APIs provide developers with a set of classes and interfaces that make it easier to handle collections of objects.
+visual-studio-2008 IS NOT IN THE CATEGORY 
+yii IS NOT IN THE CATEGORY 
+amazon-ec2 IS NOT IN THE CATEGORY 
+command-line	command	A command line is a string given to a command interpreter that tells it actions to take, such as running programs or copying files
+deployment	program	A series of activities that makes a program available for use (usually in test or production environments)
+uiview	class 	UIView is a class in the UIKit framework of iOS defines a rectangular area on the screen and the interfaces for managing the content in that area
+django-models	Model. 	The centerpiece of the Django object-relational mapping scheme is the Model.
+android-listview	subclass	A subclass of AdapterView which shows items in a vertically scrolling list.
+angularjs-directive IS NOT IN THE CATEGORY 
+printing	process 	Printing is a process for reproducing text and images, typically with ink or toner, on paper using a printer.
+google-chrome-extension	Extension development 	Extension development for the Google Chrome web browser
+view IS NOT IN THE CATEGORY 
+utf-8	character	UTF-8 (Unicode Transformation Format, 8 bits) is a character encoding that describes each Unicode code point using a byte sequence of one to four bytes.
+scroll IS NOT IN THE CATEGORY 
+solr	search server 	Apache Solr is an open source search server based on the Lucene Java search library.
+charts	format	Charts are a graphical representation of data, most often in the format of a graph or diagram
+ios7	system	iOS 7 is the seventh version of Apple's iOS mobile operating system and is the successor to iOS 6
+highcharts	library	Highcharts is a Javascript charting library that uses HTML, SVG, and VML
+laravel-5	framework	Laravel 5 is the current version of the open-source PHP web development MVC framework created by Taylor Otwell
+graphics IS NOT IN THE CATEGORY 
+junit	Popular unit testing framework 	Popular unit testing framework for Java and Scala
+datagridview	Windows Forms control 	The DataGridView is a Windows Forms control found in the .NET Framework starting at version 2.0
+emacs	editor	GNU Emacs is an extensible, customizable, self-documenting text editor
+tcp	transport layer protocol 	Transmission Control Protocol (TCP) is a transport layer protocol that provides a connection-oriented data stream service with guaranteed, in-order delivery.
+makefile	control	A makefile is usually an input file for the build control language/tool make
+ggplot2	package 	ggplot2 is an actively maintained open-source chart-drawing package for R, written by Hadley Wickham, based upon the principles of "Grammar of Graphics".
+spring-boot	services 	Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss
+spring-security	Spring Framework's application security solution 	Spring Security is the Spring Framework's application security solution
+google-apps-script IS NOT IN THE CATEGORY 
+plsql	language	PL/SQL (Procedural Language/Structured Query Language) is Oracle Corporation's procedural language extension for SQL
+foreach	element	foreach is a looping construct that executes a given piece of code for each element in a list/collection/array
+webview	user interfaces 	Elements in graphical user interfaces that host HTML content
+lambda	functions	Anonymous functions or closures in programming languages such as Lisp, C#, C++, Lua, Python, Ruby or Java
+types	abstraction	Types, and type systems, are used to enforce levels of abstraction in programs.
+vbscript	language	VBScript (Visual Basic Scripting Edition) is an interpreted scripting language developed by Microsoft that is modeled on Visual Basic.
+flask IS NOT IN THE CATEGORY 
+visual-studio-2015	product	Visual Studio 2015 is the latest version of Microsoft's Visual Studio product suite
+tfs	Application Lifecycle Management suite 	Team Foundation Server is a complete Application Lifecycle Management (ALM) suite, offered by Microsoft.
+memory-leaks	program	A memory leak occurs when a program fails to release memory that it has allocated but is no longer using and is not recoverable.
+laravel-4	framework	Laravel 4.2 is the previous version of the open-source PHP web development MVC framework created by Taylor Otwell
+rspec	development framework 	RSpec is a behavior-driven development (BDD) framework for the Ruby programming language, inspired by JBehave
+joomla	modela€“viewa€“controller Web application framework 	Joomla! is a free and open source Content Management System (CMS) for publishing content on the World Wide Web and intranets and a modela€“viewa€“controller (MVC) Web application framework that can also be used independently
+https	protocol	Hypertext Transfer Protocol Secure (HTTPS) is a combination of the Hypertext Transfer Protocol with the SSL/TLS protocol to provide encrypted communication and secure identification of a network web server.
+oauth	client	OAuth (Open Authorization) is a specification for client applications to access protected resources on behalf of a user
+filter	program	A program or routine that blocks access to data that meet a particular criterion
+syntax	syntax	In computer science, the syntax of a programming language is the set of rules that define the combinations of symbols that are considered to be correctly structured programs in that language.
+import	process 	Refers generally to the process of moving data from an external source into one's platform, program, or data set.
+ant	tool	Apache Ant (formerly Jakarta Ant) is a declarative, XML-based build tool created originally for Java projects.
+playframework	scala web application open-source framework	The Play! Framework is a modern Java and Scala web application open-source framework that provides a clean alternative to bloated Enterprise Java stacks.
+fonts IS NOT IN THE CATEGORY 
+javascript-events	event handlers/listeners 	JavaScript events register various event handlers/listeners on the element nodes inside an HTML document DOM tree.
+dependency-injection	pattern	A design pattern to reduce coupling between components, by dynamically injecting into a software component dependencies that it needs to function.
+linq-to-sql	component 	LINQ to SQL is a component of .NET Framework version 3.5 that provides a run-time infrastructure for managing relational data as objects.
+tkinter	Python interface 	Tkinter is the standard Python interface to the "Tk" graphical user interface toolkit
+jar IS NOT IN THE CATEGORY 
+hyperlink	document	A hyperlink is a reference to a document (or a section) that can be followed for retrieval using a navigation system that allows selecting emphasized content within an originating document.
+mongoose	MongoDB object modeling tool 	Mongoose is a MongoDB object modeling tool, or ODM (Object Document Mapper), written in JavaScript and designed to work in an asynchronous environment.
+error-handling	language	Programming language constructs designed to handle errors signaled by error codes, exceptions or other language specific means.
+cmd	command	Command Prompt (executable name cmd.exe) is the Microsoft supplied command line interpreter on OS/2, Windows CE, and Windows NT operating systems (including Windows 2000, XP, Vista, 7, Server 2003, and Server 2008).
+uiviewcontroller	views 	The UIViewController class manages the views in iOS apps and mediates the interaction between an app's views, its underlying model objects, and the overall workflow.
+concurrency	property 	In computer science, concurrency is a property of systems in which multiple computations can be performed in overlapping time periods
+timer	control 	Timer is a control that has the functionality to trigger a user defined action at regular intervals as configured by the user.
+orm	technique 	Object-relational mapping (ORM) is a technique for mapping object-oriented systems to relational databases.
+oracle11g	Database Management System 	Oracle is an Object-relational Database Management System (ORDBMS) created by Oracle Corporation
+doctrine2 IS NOT IN THE CATEGORY 
+machine-learning	computer algorithms 	Machine learning revolves around developing self learning computer algorithms that function by virtue of discovering patterns in data and making intelligent decisions based on such patterns.
+colors IS NOT IN THE CATEGORY 
+parameters IS NOT IN THE CATEGORY 
+version-control	control	Version control is the management of changes to documents, programs, and other information stored as computer files
+combobox IS NOT IN THE CATEGORY 
+constructor IS NOT IN THE CATEGORY 
+clojure IS NOT IN THE CATEGORY 
+datatable	term	The term "datatable" is ambiguous
+enums IS NOT IN THE CATEGORY 
+google-analytics	web analytics solution 	Google Analytics is a free web analytics solution provided by Google, featuring several client-side APIs, as well as REST APIs for data export and for management.
+while-loop	structure 	A while loop is a control structure used in many programming languages to loop over a set of instructions as long as a particular condition is met.
+properties	class	A property, in some object-oriented programming languages, is a special sort of class member, intermediate between a field (or data member) and a method
+binding IS NOT IN THE CATEGORY 
+build	software artifact(s) 	The process of converting source code files into standalone software artifact(s) that can be run on a computer
+jquery-plugins	plugins 	Custom add-ons and plugins for the jQuery library
+process IS NOT IN THE CATEGORY 
+interface	interface	An interface refers to the point of interaction between components
+bitmap	term	The more general term pixmap refers to a map of pixels, where each one may store more than two colors, thus using more than one bit per pixel
+casting	process	Casting is a process where an object type is explicitly converted into another type if the conversion is allowed.
+kendo-ui	framework 	Kendo UI is a framework to build HTML UI
+opengl-es IS NOT IN THE CATEGORY 
+devise	authentication gem 	Devise is an authentication gem for Ruby-on-Rails
+datagrid	user interface element 	A graphical user interface element that presents a tabular view of data.
+merge	term 	Merging is a generic term for combining two or more related sets of data
+android-asynctask IS NOT IN THE CATEGORY 
+ios5 IS NOT IN THE CATEGORY 
+module IS NOT IN THE CATEGORY 
+menu	user interface mechanism 	A menu is a user interface mechanism that provides the user a means to view and execute application operations
+configuration	process 	Configuration is the process of specifying the settings used for a system or application
+exception-handling	programming language construct 	Exception handling is a programming language construct or computer hardware mechanism designed to handle the occurrence of exceptions, special conditions that change the normal flow of program execution.
+ssis	platform 	SSIS (Microsoft SQL Server Integration Services) is a platform for building enterprise-level data integration and data transformations solutions
+neo4j	graph database 	Neo4j is an open-source, transactional graph database well suited to connected data
+io	system	In computing, input/output, or I/O, refers to the communication between an information processing system (such as a computer), and the outside world, possibly a human, or another information processing system.
+responsive-design	approach 	Responsive Web Design (RWD) is an approach to Web design and development that aims at crafting sites to provide optimal experiences across a wide range of devices based on screen size, platform, and orientation.
+jboss IS NOT IN THE CATEGORY 
+autocomplete	UI feature 	Autocomplete is a UI feature provided by applications, where the program predicts a word or phrase that the user wants to type without the user actually typing it completely.
+proxy	device 	A proxy is a device or program that stands between two or more interconnected programs or devices
+url-rewriting	software 	A URL rewrite engine is software that modifies a web URL's appearance (URL rewriting)
+websocket	API 	WebSocket is an API built on top of TCP sockets and a protocol for bi-directional, full-duplex communication between client and server without the overhead of http.
+triggers IS NOT IN THE CATEGORY 
+download	system 	Receiving data to a local system from a remote system, or to initiate such a data transfer.
+sqlite3	software	SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+split IS NOT IN THE CATEGORY 
+terminal	interface 	A terminal or command-line interface is a text-only interface for interacting with an operating system or a piece of software
+architecture	structure 	Architecture encompasses the process, artifacts and high-level structure of a solution.
+npm	package manager 	npm is the official package manager for Node.js, the non-blocking, asynchronous I/O framework that uses Google's V8 JavaScript engine
+model IS NOT IN THE CATEGORY 
+lua	language	Lua is a powerful, fast, lightweight, embeddable scripting language
+scope IS NOT IN THE CATEGORY 
+sql-server-2012 IS NOT IN THE CATEGORY 
+youtube	website 	YouTube is a video-sharing website on which users can upload, share, and view videos.
+nullpointerexception	exception	The Java exception thrown when an application attempts to use null in a case where an object is required.
+bluetooth IS NOT IN THE CATEGORY 
+count	objects	Count refers to the number of objects in a collection
+reference	program	A reference is a value that enables a program to indirectly access a particular datum, such as a variable or a record, in the computer's memory or in some other storage device.
+coldfusion	application development platform 	ColdFusion is a server-side rapid application development platform, implementing the dynamic general purpose CFML programming language
+safari	web browser 	Safari is Apple's web browser, the default browser on Mac OS X and iOS.
+ffmpeg	free open-source project 	FFmpeg is a free, open source project that produces libraries and programs for handling multimedia data
+webforms	ASP.NET web framework 	Web Forms is a part of the ASP.NET web framework
+static	term	Static is a term used in some programming languages to define a function or data storage area (field) that is not bound to any specific object instance.
+stl	C++ library 	The Standard Template Library, or STL, is a C++ library of generic containers, iterators, algorithms, and function objects
+ios4	system	The 2010-2011 version of the iPhone/iPad/iPod Touch/Apple TV operating system family, made by Apple.
+parallel-processing IS NOT IN THE CATEGORY 
+path IS NOT IN THE CATEGORY 
+cassandra IS NOT IN THE CATEGORY 
+scripting IS NOT IN THE CATEGORY 
+3d IS NOT IN THE CATEGORY 
+compilation	process 	Compilation is the process of producing information, typically a program to be executed by a computer, from a source (or sources) typically being text in a computer programming language
+compiler-errors	error 	An error that is generated during the compilation phase, often due to problems with invalid syntax and/or types.
+asp.net-mvc-5	platform	ASP.NET MVC 5 is the fifth major version of the ASP.NET Model-View-Controller platform for web applications.
+background	container	Background typically refers to the rendering behind a container element's contents - usually on a web page, Windows form or other UI presentation medium.
+callback IS NOT IN THE CATEGORY 
+controller	controller	A controller is responsible for executing a sequence of instructions in response to some stimulus (maybe a command, action, or event)
+xsd	document	XSD generally refers to a document written in the W3C XML Schema format, containing a description of a particular type of XML document.
+datepicker	user interface element 	A datepicker is a user interface element in many frameworks that allows a user to choose a date and also, in some cases, time, often through a visual calendar.
+character-encoding	characters	Character encoding refers to the way characters are represented as a series of bytes
+permissions	databases	Permissions define the operations that authenticated users are allowed to perform on file systems, databases and other computer systems.
+transactions IS NOT IN THE CATEGORY 
+tabs	user interface pattern 	A user interface pattern that allows for the display of multiple pages or elements with a navigation reference above, below, or to the side of the content.
+pagination	process 	Pagination is the process of dividing information into discrete pages.
+push-notification	device	Push notifications are alerts, badges, or sounds which are pushed to a mobile device from a remote server
+upload	system	Upload refers to the sending of data from a local system to a remote system such as a server or another client with the intent that the remote system should store a copy of the data being transferred, or the initiation of such a process
+ftp	protocol 	File Transfer Protocol (FTP) is a well-established protocol for conducting file operations (such as transferring files) over a TCP-based network such as the Internet.
+sdk	development tools 	A software development kit (SDK) is a set of development tools that allows for the creation of software for a certain hardware platform, development environment, or software package
+linked-list	data structure 	A linked list is a data structure in which the elements contain references to the next (and optionally the previous) element
+f#	language	F# is a succinct, expressive and efficient functional and object-oriented language for .NET which helps you write simple code to solve complex problems.
+phpmyadmin	MySQL administration tool 	phpMyAdmin is an open-source, web-based MySQL administration tool written in PHP
+uiscrollview IS NOT IN THE CATEGORY 
+cocos2d-iphone IS NOT IN THE CATEGORY 
+struts2	framework	Apache Struts 2 is an extensible framework based on
+windows-8	interface	The successor to Microsoft Windows 7 that focuses on a new interface style for touch-based devices and tablets.
+tree	data structure 	A tree is a widely-used data structure that emulates a hierarchical tree-like structure with a set of linked nodes.
+windows-7 IS NOT IN THE CATEGORY 
+ms-word IS NOT IN THE CATEGORY 
+outlook	information manager 	Microsoft Outlook is a personal information manager from Microsoft (most notably used for handling e-mail), available both as a separate application as well as a part of the Microsoft Office suite.
+get	methods	GET is one of many request methods supported by the HTTP protocol
+insert	action 	Insert is an action to add information to a larger container that the information should reside within
+linux-kernel IS NOT IN THE CATEGORY 
+redis	structure	An open source BSD-licensed in-memory data structure store used as database, cache and message broker
+asp-classic IS NOT IN THE CATEGORY 
+dns	naming system 	The Domain Name System (DNS) is a hierarchical naming system built on a distributed database for computers, services, or any resource connected to the Internet or a private network.
+routing	process 	Routing is the process of selecting paths in a network along which to send network traffic
+camera	device 	In the real world, a camera is a device that takes physical or digital photos
+null IS NOT IN THE CATEGORY 
+web-scraping	process 	The process of extracting specific information from websites
+jqgrid	jQuery plugin 	jqGrid is an Ajax-enabled jQuery plugin that provides a solution for representing tabular data on the web.
+socket.io	apps	Socket.IO aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms
+android-ndk	companion tool 	The Android Native Development Kit (NDK) is a companion tool to the Android SDK that lets you build performance-critical portions of your apps in native code or port existing libraries in C/C++ to Android
+uiwebview	class	A class used to display web content from within an iOS application.
+group-by	command 	GROUP BY is a command in the SQL relational database standard for collapsing result rows that share a common field value into a single row
+xml-parsing	parser	An XML parser goes through text documents containing XML trees and allows the information in the hierarchy to be used
+notifications IS NOT IN THE CATEGORY 
+mfc	C++ framework 	The Microsoft Foundation Class Library (MFC) is a C++ framework for Windows GUI programming.
+sql-server-2008-r2 IS NOT IN THE CATEGORY 
+mapreduce	algorithm 	MapReduce is an algorithm for processing huge datasets on certain kinds of distributable problems using a large number of nodes
+cuda	computing platform |programming model	CUDA is a parallel computing platform and programming model for Nvidia GPUs (Graphics Processing Units)
+three.js	browser	Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser
+textbox	user interface element 	A textbox is a graphical user interface element which allows for simple input text, usually only a single line of text.
+sass	extension 	Sass (Syntactically Awesome Style Sheets) is an extension of CSS adding features like nested rules, variables, mixins and class extensions
+macros	languages	*Not for MS-OFFICE / VBA / macro languages
+com	component technology 	Component Object Model (COM) is a component technology from Microsoft, featuring remoting, language independence and interface-based programming
+compiler-construction IS NOT IN THE CATEGORY 
+localization	process 	Localization is the process of adapting a product or service to a particular language, culture, and desired local "look-and-feel
+grep	utility 	grep is a command-line text-search utility originally written for Unix
+crystal-reports	suite	Crystal Reports is a report writer that operates as a stand-alone report designer, an integrated part of Visual Studio, or part of SAP's Business Objects Enterprise suite
+routes IS NOT IN THE CATEGORY 
+arduino	electronics prototyping platform 	Arduino is an open-source electronics prototyping platform based on easy-to-use hardware and software
+server	instance 	A server is a running instance of a software application capable of accepting requests from a client and giving responses accordingly.
+google-spreadsheet IS NOT IN THE CATEGORY 
+sprite-kit	framework 	SpriteKit is Apple's framework for creating 2D games for iOS 7+ and Mac OS X 10.9+
+calendar	system 	A calendar is a system of reckoning time in which the beginning, length and divisions of a year are defined
+functional-programming	programming paradigm 	Functional programming is a programming paradigm based upon building abstractions using functions, avoiding side effects and change of state
+msbuild	platform 	Microsoft Build Engine, also known as MSBuild, is a build platform for managed code and was part of .NET Framework.
+eclipse-plugin	platform 	Eclipse is an OSGi extensible platform for tool integration
+ios8	system	iOS 8 is the eighth version of Apple's iOS mobile operating system
+libgdx	Java game development framework 	LibGDX is an open-source cross-platform Java game development framework based on OpenGL (ES) that works on Windows, Linux, Mac OS X, Android, iOS and your WebGL enabled browser.
+map	data structure 	A map is a data structure relating keys to values
+active-directory	directory service 	Active Directory (AD) is a directory service created by Microsoft
+installation	process	The process of installation is the deployment of an application onto a device for future execution and use.
+excel-formula IS NOT IN THE CATEGORY 
+drag-and-drop	action 	In computer graphical user interfaces, drag-and-drop is the action of (or support for the action of) selecting a virtual object by "grabbing" it and dragging it to a different location or onto another virtual object.
+automation	process 	Automation is the process of having a computer do a repetitive task or a task that requires great precision or multiple steps, without requiring human intervention.
+lucene	term	The term Lucene refers to the open source Java fulltext search engine library, but also to the entire eco-system that grew around it, including lucene.net, solr, elasticsearch and zend-search-lucene.
+cron	process	Cron is a time-based job scheduler running as a daemon process in Unix-like computer operating systems.
+oauth-2.0	protocol	OAuth (Open Authorization) is an open protocol framework to allow secure API authorization in a simple and standardized way for desktop, mobile and web applications
+google-api IS NOT IN THE CATEGORY 
+onclick	event 	An event which occurs when user clicked an object
+hive	data warehouse system 	Hive is a data warehouse system for Hadoop that facilitates easy data summarization, ad-hoc queries, and the analysis of large datasets stored in Hadoop compatible file systems
+stream IS NOT IN THE CATEGORY 
+iis-7	server	IIS (Internet Information Services) Version 7 a€“ is a web server application and a set of feature extension modules created by Microsoft for use with Microsoft Windows
+linker IS NOT IN THE CATEGORY 
+dialog IS NOT IN THE CATEGORY 
+header IS NOT IN THE CATEGORY 
+listbox	user interface element 	A graphical user interface element that allows the user to select one or more items from a list.
+coffeescript	language 	CoffeeScript is a language that compiles into JavaScript
+woocommerce	eCommerce plugin 	WooCommerce is an open source eCommerce plugin available for WordPress.
+frameworks	libraries 	A framework is an existing library or set of libraries that provides overarching application structure so that the developer can focus primarily on their application's implementation details instead
+binary IS NOT IN THE CATEGORY 
+crash	error	A crash is the result of an unrecoverable error that causes the program to stop completely.
+xamarin.ios	software development kit 	Xamarin.iOS (previously known as MonoTouch) is a commercial software development kit for Mac OS X and Windows that lets you use C# (a .NET programming language) to create native applications for Apple iPhone, iPod Touch, iPad (iOS), Apple Watch (watchOS) and AppleTV (tvOS) devices.
+cmake	system	CMake is a cross-platform, open-source build system generator
+uinavigationcontroller	iOS view controller 	The UINavigationController class implements a specialized iOS view controller that manages the navigation of hierarchical content.
+uiimageview	container 	An image view object provides a view-based container for displaying either a single image or for animating a series of images in iOS
+react-native	apps	React Native lets you build mobile apps using only JavaScript
+actionscript	language	ActionScript is a scripting language used to create Rich Internet Applications (RIA), mobiles applications, web applications, etc
+ios6 IS NOT IN THE CATEGORY 
+drupal-7 IS NOT IN THE CATEGORY 
+vb6	development environment 	Visual Basic 6.0 (VB6), last updated in 2004, is a third generation event-driven programming language and integrated development environment (IDE) from Microsoft for its COM programming model
+sqlalchemy	python sql toolkit |object relational mapper	SQLAlchemy is a Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+datatables	plug-in	DataTables is a plug-in for the jQuery JavaScript library
+user-controls	control	A UserControl is a separate, reusable input control that allows a user to interact with an application
+uibutton	instance 	An instance of the UIButton class implements a button on the iOS touch screen.
+dojo	JavaScript library 	Dojo Toolkit is an open source modular JavaScript library designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites
+namespaces	container 	A namespace is a container that provides context for identifiers, within which names are unique.
+floating-point IS NOT IN THE CATEGORY 
+navigation	user interface 	Navigation refers to the process of navigating a network of resources, and the user interface that is used to do so.
+blackberry	company	BlackBerry is a line of mobile e-mail and smartphone devices developed and designed since 1999 by the Canadian company of the same name (previously called Research In Motion (RIM))
+internet-explorer-8	browser	Windows Internet Explorer 8 is a web browser developed by Microsoft, released on 19 March 2009 for Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and Windows 7.
+console	mechanism 	A mechanism for interacting with a computer operating system or software by typing commands to perform specific tasks
+jaxb	objects	Java Architecture for XML Binding is the Java standard for working with XML as domain objects
+android-edittext	text entry widget 	The EditText is the standard text entry widget in Android apps
+swift2 IS NOT IN THE CATEGORY 
+asp.net-mvc-2 IS NOT IN THE CATEGORY 
+keyboard	device	A text input device
+delegates IS NOT IN THE CATEGORY 
+rotation	object	A rotation is a circular movement of an object around a center (or point) of rotation.
+sharepoint-2010 IS NOT IN THE CATEGORY 
+hashmap	data structure 	A data structure that uses a hash function to map identifying values, known as keys, to their associated values
+.net-4.0 IS NOT IN THE CATEGORY 
+gruntjs	command line 	Grunt is a task-based command line build tool and task runner for JavaScript projects.
+mono	implementation 	Mono is an open source implementation of .NET that runs on many platforms, including Linux, Mac OS X, and Windows.
+django-forms	framework	Specific questions related to forms with the Django web framework
+gps	system	Abbreviation for Global Positioning System; a navigational system using satellite signals to fix the location of a radio receiver on or above the earth's surface
+scipy	library 	SciPy is an open source library of algorithms and mathematical tools for the Python programming language.
+garbage-collection	objects	Garbage collection (GC) is a form of automatic memory management which attempts to reclaim garbage, or memory occupied by objects that are no longer in use by the program.
+geolocation IS NOT IN THE CATEGORY 
+annotations	code element 	In programming, annotations are used to add information to a code element which cannot be expressed by the type system.
+iterator	programming pattern 	An iterator is an object-oriented programming pattern that allows traversal through a collection, agnostic of the actual implementation or object addresses in physical memory
+event-handling IS NOT IN THE CATEGORY 
+android-emulator	software 	An Android emulator is software which simulates the functionality of an Android device running the Android OS
+network-programming	network	Programming associated with creating and managing networks as well as adding network connectivity to a (set of) programs.
+internationalization	process 	Internationalization(i18n : representing "internationalisation" as "i" followed by 18 more &#xD;&#xA;letters, followed by "n") is the process of planning and implementing products and services&#xD;&#xA;so that they can easily be adapted to specific local languages and cultures, a process called localization
+windows-runtime	Microsoft platform architecture 	Windows Runtime (WinRT) is a Microsoft platform architecture that allows applications to run in a sandboxed environment exposing a 'Windows Modern Style' UI/UX
+x86	architecture 	x86 is an architecture derived from the Intel 8086 CPU
+zend-framework2	framework	Zend Framework 2 is a PHP 5.3+ 5.4 (for Zend Framework 2.4+) or 5.5+ (for Zend Framework 2.5.0+) MVC framework and component library.
+gulp	task	Gulp is a JavaScript build system, node.js-based task runner like Grunt
+java-8 IS NOT IN THE CATEGORY 
+telerik	components	Telerik is a vendor of development, team productivity, and automated testing tools, as well as UI components and content management solutions for Microsoft .NET.
+openssl	software toolkit 	OpenSSL is an open source software toolkit that implements the SSL/TLS protocol, as well as a general cryptographic library.
+android-actionbar	Android's window feature 	The ActionBar is Android's window feature that identifies the application and user location, and provides user actions and navigation modes.
+attributes	property 	The attributes tag should be used for any issues relating to a property of an object, element, or file, etc.
+char	character	char typically refers to a character data-type, representing letters of text.
+django-templates IS NOT IN THE CATEGORY 
+formatting	process 	The process of transforming text or data for presentation
+cryptography IS NOT IN THE CATEGORY 
+ado.net	computer software components 	A set of computer software components that programmers can use to access data and data services.
+android-viewpager	views	A ViewGroup that manages the layout for the child views the user can swipe between.
+yii2	framework	Yii2 is the latest version of the Yii PHP framework (Yii is a high-performance component-based PHP framework), version 2.0.9 was released on July 11, 2016.
+angularjs-scope	object 	In AngularJS, a scope is an object that refers to the application model
+tags IS NOT IN THE CATEGORY 
+css-selectors	document	Selectors are patterns that match against elements in a document tree
+eloquent	mapper	Eloquent is Laravel's own object-relational mapper
+autolayout	interface	Auto Layout is a constraint-based, descriptive user interface layout system for OS X and iOS.
+centos	software	CentOS is a community-supported, mainly free software operating system based on Red Hat Enterprise Linux (RHEL)
+windows-phone-8.1	system	Windows Phone 8.1 is a major update to Microsoft's Windows Phone 8 operating system
+textview	widget 	Android widget that displays text to the user and optionally allows them to edit it
+access-vba	programming language 	Access-VBA (Visual Basic for Applications for Microsoft Access) is an event-driven and object-oriented programming language for writing macros for Microsoft Office applications like Access.
+directory	container 	A directory or folder is a virtual container within a digital file system, in which groups of computer files and other directories can be kept and organized.
+nested IS NOT IN THE CATEGORY 
+jquery-selectors	document	Selectors can be used in jQuery to match a set of elements in a document
+jersey IS NOT IN THE CATEGORY 
+ide	computer programs 	IDEs (Integrated Development Environment) are computer programs that facilitate efficient software development by providing features beyond those of a simple text editor.
+nosql	class 	NoSQL (sometimes expanded to "not only SQL") is a broad class of database management systems that differ from the classic model of the relational database management system (RDBMS) in some significant ways.
+wsdl	language	Web Service Description Language (WSDL) is an XML based, human- and machine-readable language used to describe a web service
+prolog	language	Prolog is the most commonly used logic programming language
+request	message 	A request is a message sent by a source to another object.
+popup	UI element 	In general, popup refers to any UI element that floats above a window or application surface
+cross-browser	components	Cross-browser development refers to the practice of building web sites, web applications, libraries, or components so that they function across different web browsers and rendering engines.
+angular-ui-router	concept 	UI-Router evolves the concept of an AngularJS Route into a more general concept of a State for managing complex application UI states
+uiimage	class	The basic image handling class of Cocoa-Touch on iOS.It is Available in iOS 2.0 and later
+air	runtime environment 	Adobe Integrated Runtime (AIR), also known as Adobe AIR, is a cross-platform runtime environment developed by Adobe Systems for building applications targeting desktop, mobile and television systems using Adobe Flash, Adobe Flex, ActionScript 3.0, MXML, HTML, or AJAX.
+serial-port	interface 	A serial port is a physical interface through which data is transferred (uni- or bidirectionally) one bit at a time
+wordpress-plugin	plugins	WordPress plugins allow users and developers to extend the default WordPress functionality.
+language-agnostic IS NOT IN THE CATEGORY 
+grid IS NOT IN THE CATEGORY 
+wix	packages	The WiX Toolset (formerly known as Windows Installer XML) is a toolset that builds Windows installation packages and WiX bootstrappers from XML source code
+uicollectionview	class	The UICollectionView class manages an ordered collection of data items and presents them using customizable layouts
+jvm	machine model 	The Java Virtual Machine (JVM) enables a set of computer software programs and data structures to use a virtual machine model for the execution of other computer programs and scripts
+operating-system	software 	An operating System (OS) is a basic software whose role is to be an abstract layer between software requisitions for resources and the hardware available, manage input/output, memory allocation/deallocation, file systems, among other basic tasks a device (not necessarily a computer) should do.
+imageview	widget 	Android widget that displays an arbitrary image or drawable, such as an icon.
+jackson	Java library 	Jackson is a Java library for handling tasks like reading and writing (parsing / generating) and data binding to/from Java objects
+entity-framework-4 IS NOT IN THE CATEGORY 
+doctrine	libraries |tools	The Doctrine Project is a collection of open source libraries and tools for dealing with database abstraction and Object-Relational Mapping written in PHP.
+segmentation-fault	process	Segmentation faults occur when accessing memory which does not belong to your process
+mocking	unit 	Mocking and faking are ways to isolate code or components to ensure that unit tests run against the testable unit of code only without actually utilizing other components or dependencies of an application
+http-headers IS NOT IN THE CATEGORY 
+website IS NOT IN THE CATEGORY 
+rubygems	package management tool 	RubyGems is a package management tool for the Ruby programming language
+jframe	component |container	A JFrame is a component and top-level container of the JFC/Swing framework.
+pyqt	Python bindings 	PyQt is a set of Python bindings for Digia's Qt application framework and runs on all platforms supported by Qt including Windows, MacOS/X and Linux.
+modal-dialog IS NOT IN THE CATEGORY 
+statistics IS NOT IN THE CATEGORY 
+storyboard IS NOT IN THE CATEGORY 
+mercurial IS NOT IN THE CATEGORY 
+youtube-api	integration 	The YouTube APIs and Tools enable the integration of YouTube's video content and functionality into a website, application, or device.
+hover	action 	Hover refers to the action of placing the mouse cursor over a given element
+numbers	object 	A number is a mathematical object used to count and measure.
+google-drive-sdk IS NOT IN THE CATEGORY 
+sas	language	The SAS language is a 4GL that underpins the SAS system, a suite of products centered around data processing and statistical procedures.
+beautifulsoup	Python package 	Beautiful Soup is a Python package for parsing HTML/XML
+resources	operation	Assets (like memory, disk space, CPU power or alike) necessary for effective operation or physical files (like images, configuration files or other) to provide some externalized enrichment to an application.
+include	languages	A provision that many programming languages provide to allow functionality defined in one file to be used in another.
+smtp IS NOT IN THE CATEGORY 
+ldap	application protocol 	Lightweight Directory Access Protocol, an application protocol for reading and editing directories over an IP network.
+asp.net-core	framework	ASP.NET Core is a lean, composable and cross-platform framework for building web and cloud applications
+passwords	machine	Passwords are primarily used as a way of accessing information and also limiting the number of users who can get access to a machine
+jasmine	development framework 	Jasmine is a behavior-driven development (BDD) framework for testing JavaScript code
+xmlhttprequest	JavaScript object 	XHR (also known as XMLHttpRequest) is a JavaScript object, which is designed to communicate with servers
+applet IS NOT IN THE CATEGORY 
+xampp IS NOT IN THE CATEGORY 
+integer IS NOT IN THE CATEGORY 
+timezone IS NOT IN THE CATEGORY 
+webpack IS NOT IN THE CATEGORY 
+resize IS NOT IN THE CATEGORY 
+xna	framework 	XNA is a cross-platform framework originally from Microsoft that facilitates game development with .NET
+promise	event	Promises are a tactic for deferred computing, suitable for several styles of concurrency: thread and event loop concurrency for local computation, and both synchronous and asynchronous remote messaging
+sum	'sum' function 	The 'sum' function which returns the sum of the items in an array.
+initialization	task	Initialization deals with the (often dreaded) task of initializing the contents of your data structure
+synchronization	controls	Synchronization refers to using controls to maintain a coherent representation, either a group of processes running the same program (process synchronization), or representations of data (data synchronization).
+erlang	language	Erlang is a general-purpose, garbage-collected programming language and runtime environment, with built-in support for concurrency, distribution and fault tolerance.
+xamarin.android	implementation 	Xamarin.Android (previously known as Mono for Android) is an implementation of Mono that runs on the Android platform, allowing you to write Android applications in C# using native Android libraries as well as using the .NET BCL (Base Class Libraries).
+jtable	Java Swing component 	JTable is a Java Swing component used to display and edit regular two-dimensional tables of cells.
+int IS NOT IN THE CATEGORY 
+jni	implementations	The Java Native Interface (JNI) gives both the ability for JVM implementations to run system native code, and the ability for native code to run Java code (by creating new JVM instances)
+ruby-on-rails-3.2 IS NOT IN THE CATEGORY 
+widget	element 	A widget is an element of a user interface (GUI widget) or a self-contained (usually small) software application (desktop widget).
+raspberry-pi	device	The Raspberry Pi is a low cost, credit card sized, ARMv6 instruction set based PC device developed by the Raspberry Pi foundation.
+radio-button IS NOT IN THE CATEGORY 
+udp	protocols 	User Datagram Protocol is one of the messaging protocols of the IP protocol stack.
+ef-code-first IS NOT IN THE CATEGORY 
+format	document	It may refer to text formatting, content format, file format, document file format, etc.
+fortran	programming language 	Fortran is a general-purpose, procedural, imperative programming language that is especially suited for numeric computation and scientific computing
+ecmascript-6 IS NOT IN THE CATEGORY 
+seo IS NOT IN THE CATEGORY 
+web-config IS NOT IN THE CATEGORY 
+windows-services	Service Control Manager 	Windows services are background service processes run by the Service Control Manager on Windows NT based operating systems, similar to daemons or UNIX services.
+order IS NOT IN THE CATEGORY 
+copy	object 	To copy is to create a duplicate of an object without destroying the original
+find IS NOT IN THE CATEGORY 
+coding-style IS NOT IN THE CATEGORY 
+rss	formats	Really Simple Syndication (RSS) is a family of web feed formats used to publish frequently updated worksa€”such as blog entries, news headlines, audio, and videoa€”in a standardized format.
+slider	widget 	A graphical widget in a GUI with which a user may set a value by moving an indicator.
+requirejs	module loader	RequireJS is a JavaScript file and module loader
+nsstring	class 	NSString is the plain-text character-string class in Cocoa and Cocoa Touch
+timestamp	event	A timestamp is the time at which an event is recorded by a computer system
+html5-canvas	HTML element 	Canvas is an HTML element that allows for dynamic, scriptable rendering of 2D shapes, and bitmap images.
+duplicates IS NOT IN THE CATEGORY 
+stack	stack	A stack is a last in, first out (LIFO) abstract data type and data structure.
+click IS NOT IN THE CATEGORY 
+webdriver	API 	WebDriver is an API for controlling web browsers, imitating a real user
+save IS NOT IN THE CATEGORY 
+gdb	debugger 	GDB is the standard debugger for the GNU software system.
+dependencies	element	A dependency exists between two elements if changes to the definition of one element may cause changes to the other.
+glassfish	reference Java EE application server. 	GlassFish is the reference Java EE application server.
+switch-statement	selection control mechanism 	In computer programming, a switch, case, select or inspect statement is a type of selection control mechanism
+db2	database	DB2 is a family of database servers developed by IBM
+treeview	control	TreeView control is used to display hierarchical information.
+google-cloud-messaging	service 	Google Cloud Messaging is a service to allow data to be sent remotely to Android and iOS applications and Chrome extensions and packaged apps.
+jasper-reports	Java applications 	JasperReports, an open source Java reporting tool, can be used in all Java applications from desktop to web applications
+arm IS NOT IN THE CATEGORY 
+playframework-2.0	framework	Play Framework 2.0 is a major revision of Play, a Ruby on Rails-like framework for the Java platform
+json.net	JSON framework 	Json.NET (also known as Newtonsoft.Json) is a popular high-performance JSON framework for .NET.
+set	element	A set is a collection in which no element is repeated, which may be able to enumerate its elements according to an ordering criterion (an "ordered set") or retain no order (an "unordered set").
+windows-phone	operating system |software development platform	Windows Phone is Microsoft's mobile operating system and software development platform.
+windows-store-apps	apps	This refers to Windows 8 and Windows 8.1 apps only
+sql-update	statement	An SQL UPDATE statement is used to change existing rows in a table.
+recyclerview IS NOT IN THE CATEGORY 
+return	statement	A return statement causes execution to leave the current subroutine and resume at the point in the code immediately after where the subroutine was called, known as its return address
+command	command	A command is a directive to a computer program acting as an interpreter of some kind, in order to perform a specific task
+position	element	Position refers to the location of an element relative to its container, typically on the horizontal and vertical axes.
+gem IS NOT IN THE CATEGORY 
+location IS NOT IN THE CATEGORY 
+geometry IS NOT IN THE CATEGORY 
+log4j	utility	log4j is a popular Java-based logging utility
+scrapy	framework	Scrapy is a fast open-source high-level screen scraping and web crawling framework written in Python, used to crawl websites and extract structured data from their pages
+ckeditor	editor	CKEditor is a JavaScript based WYSIWYG editor created for use within web pages
+jmeter IS NOT IN THE CATEGORY 
+boolean IS NOT IN THE CATEGORY 
+g++ IS NOT IN THE CATEGORY 
+window	interface 	In computer science a window is a graphical interface to let a user interact with a program
+connection	client	Refers to a connection used to transfer data between two endpoints, such as between a client and a web, database, web service or other server.
+cursor	structure 	A cursor is a control structure for traversing records in a database
+timeout	term	The timeout term refers to a predefined period of time allowed to elapse before an event is to occur
+wso2	provider	WSO2, Open Source Java based Middleware Service provider
+documentation	software	Documentation is information on aspects of software or hardware, including its intended purpose, functionality, and maintenance
+scikit-learn	library 	scikit-learn is a machine-learning library for Python that provides simple and efficient tools for data analysis and data mining, with a focus on machine learning
+pygame	Python modules 	Pygame is a set of Python modules designed for writing video games
+foreign-keys IS NOT IN THE CATEGORY 
+filesystems	system	A file system is a way of organizing data on a computer system
+thread-safety	structures	A piece of code is thread-safe if it only manipulates data structures in a way that allows consistent execution of this code by multiple threads
+gmail	email service 	Gmail is a free email service offered by Google
+uitextfield	control 	A UITextField object is a control that displays editable text and sends an action message to a target object when the user presses the return button
+firefox-addon	browser	A Firefox add-on is a way of adding to or modifying the Firefox web browser
+xcode6	environment	Xcode 6 is Apple's integrated development environment (IDE)
+google-play IS NOT IN THE CATEGORY 
+queue	structure	A queue is an ordered, first-in-first-out data structure
+django-views	views	Django views are MVC views; they control rendering (typically through templates), and the data displayed.
+shiny	solution 	Shiny is a solution allowing easy creation of interactive web applications using R code.
+in-app-purchase	feature	In-app purchase (IAP) usually refers to the acquisition of a feature for an application from within the application itself
+dart	language	Dart is a class-based, optionally-typed programming language for building web and command-line applications
+webkit	web browser engine 	WebKit is an open source web browser engine that powers Apple Safari, and several mobile browsers including the pre-installed browsers for Android, iOS, RIM Blackberry, Symbian and WebOS.
+entity-framework-6 IS NOT IN THE CATEGORY 
+polymorphism	programming language feature 	In computer science, polymorphism is a programming language feature that allows values of different data types to be handled in a uniform manner.
+continuous-integration IS NOT IN THE CATEGORY 
+arguments	command	An argument is usually defined as the actual value passed to a function, procedure, or command line program
+django-admin	admin interface 	Django's built-in, automatic admin interface (django.contrib.admin) which is part of the Django Web framework for the Python programming language.
+xhtml	application 	XHTML, eXtensible HyperText Markup Language, is an application of HTML that is also a valid XML document, as opposed to standard HTML which is based on SGML
+icons	interfaces	An icon is a small pictogram used in graphical user interfaces to supplement the presentation of textual information to the user.
+vagrant	command line tool 	Vagrant is a command line tool for provisioning virtualized environments on top of various providers, including VirtualBox, VMWare and AWS.
+dataset IS NOT IN THE CATEGORY 
+kernel	computer program 	In computing, the kernel is a computer program that manages input/output requests from software, and translates them into data processing instructions for the central processing unit and other electronic components of a computer
+sbt	tool	sbt is an open source build tool for Scala and Java projects, similar to Java's Maven or Ant.
+broadcastreceiver	component 	BroadcastReceiver is an Android component that responds to system-wide broadcast announcements.
+async-await	model	This covers the asynchronous programming model supported by various programming languages, using the async and await keywords.
+ip IS NOT IN THE CATEGORY 
+phpunit	testing framework 	PHPUnit is a programmer-oriented testing framework for PHP
+cors	object	Cross-Origin Resource Sharing allows browsers' XMLHttpRequest object to make cross-origin requests
+phantomjs IS NOT IN THE CATEGORY 
+compare IS NOT IN THE CATEGORY 
+polymer	features 	The Polymer library provides a set of features that make it easy and fast to make custom elements that work like standard DOM elements.
+styles IS NOT IN THE CATEGORY 
+jquery-validate	jQuery plugin 	The jQuery Validate plugin is a jQuery plugin by J??rn Zaefferer
+escaping	process 	Escaping is the process of applying an alternate meaning to a character or set of characters.
+jpanel	container 	JPanel is a container in the Java Swing Framework that allows custom rendering using layout managers
+windows-installer IS NOT IN THE CATEGORY 
+migration	action 	An action of moving between major version of any framework, product or language, or, just as commonly, alteration to the data schema of an application
+locking	process 	Locking allows different types of resources to be used exclusively by one process at a time.
+debian	operating system 	Debian is a universal operating system composed of over 29000 free and open-source software packages
+pthreads	API 	Pthreads (POSIX Threads) is a standardised C-based API for creating and manipulating threads
+oracle10g	RDBMS product 	Oracle is an RDBMS product
+zip	format 	Zip is a format for compressed file archives, allowing packaging of multiple files and directories into a single file.
+laravel-5.2	framework	Laravel 5.2 is a past version of the open-source PHP web framework created by Taylor Otwell
+angularjs-ng-repeat	template	The ngRepeat directive instantiates a template once per item from a collection
+singleton	design pattern 	A design pattern that ensures that exactly one application-wide instance of a particular class exists
+nlp	language	Natural language processing (NLP) is a subfield of artificial intelligence that involves transforming or extracting useful information from natural language data
+twig	engine 	Twig is a modern, fast, flexible, and secure templating engine for PHP
+android-gradle	system	The Android Gradle Plugin is Android's standard build system
+content-management-system	platform 	A Content Management System (CMS) is a platform used to build websites that are easily edited by multiple users
+java-me	Java platform 	Java Platform, Micro Edition, or Java ME, is a Java platform designed for embedded systems.
+sms	text communication service component 	Short Message Service (SMS) is the standardized text communication service component of phone, web or mobile communication systems that allow the exchange of short text messages between fixed line or mobile phone devices.
+cygwin	foss tools	Cygwin is a collection of GNU and other Unix-like FOSS tools which run on MS Windows and provide functionality similar to a GNU/Linux distribution while (mostly) conforming to POSIX specifications.
+gtk	user interfaces 	GTK+ is a highly usable, feature-rich toolkit for creating graphical user interfaces (GUIs) that boasts cross platform compatibility and an easy to use API.
+embedded	systems 	Embedded refers to embedded systems, which involves areas such as microcontroller/DSP firmware programming, real-time systems, electronic interfaces, hardware drivers, serial bus communication etc
+linq-to-entities IS NOT IN THE CATEGORY 
+uikit	framework 	UIKit (not to be confused with the front-end framework UIKit) is the object-oriented framework that is responsible for most of the iOS user interface.
+certificate	document 	A certificate is an electronic document used in cryptography.
+tinymce	platform 	TinyMCE is a platform independent web-based JavaScript HTML WYSIWYG editor control released as open source under LGPL by Moxiecode Systems AB
+rabbitmq	messaging software 	RabbitMQ is an open source robust messaging software for applications based on the AMQP protocol.
+computer-vision	algorithm	Computer vision enables images, or sequences of images, to be processed by a computer using an algorithm
+append IS NOT IN THE CATEGORY 
+user	software	A user is an agent, either a human agent (end-user) or software agent, who uses a computer or network service.
+imagemagick	software suite 	ImageMagick is an open source software suite for displaying, converting and editing raster image files.
+hex	numeral system 	Hexadecimal (also base 16, or hex) is the base-16 positional numeral system, using the 16 symbols 0a€“9 and Aa€’F.
+google-visualization IS NOT IN THE CATEGORY 
+.net-3.5 IS NOT IN THE CATEGORY 
+swift3 IS NOT IN THE CATEGORY 
+alignment IS NOT IN THE CATEGORY 
+django-rest-framework	toolkit 	A powerful and flexible toolkit for building Web APIs
+base64 IS NOT IN THE CATEGORY 
+package IS NOT IN THE CATEGORY 
+less	functions	Less is an open-source stylesheet preprocessor that extends CSS with dynamic behavior such as variables, mixins, operations and functions
+repository	object 	Can refer to the data store of a version control system containing the whole history of a project, or to an object that transfers data between the business layer of an application and its data store.
+app-store	applications	The App Store is Apple's online digital distribution store for applications
+subquery	statement	"subquery" is vague SQL terminology, used to describe when there's either more than one `SELECT` statement in a query, or when used in Data Manipulation Language (DML) statements (IE: DELETE, UPDATE, INSERT, MERGE).
+full-text-search IS NOT IN THE CATEGORY 
+maps IS NOT IN THE CATEGORY 
+neural-network	models 	Network structure inspired by simplified models of biological neurons (brain cells).
+load IS NOT IN THE CATEGORY 
+compression	process 	The name given to the process of encoding data such that it uses lesser number of bits as compared to the original representation.
+usb	acronym 	USB is an acronym for Universal Serial Bus, a standard for a serial host-to-device protocol defined by the USB Implementors Forum.
+applescript	scripting language 	AppleScript is an end user scripting language that has been available in Mac computers since System 7 Pro (7.1.1)
+odbc	software interface 	Open Database Connectivity (ODBC) provides a standard software interface for accessing database management systems (DBMS).
+webserver	software application 	A software application that services requests from clients using the Hypertext Transfer Protocol.
+web-crawler	computer program 	A Web crawler (also known as Web spider) is a computer program that browses the World Wide Web in a methodical, automated manner or in an orderly fashion
+sonarqube	quality management platform 	SonarQube (formerly Sonar) is a quality management platform focusing on continuous analysis of source code quality
+printf	function 	`printf` is a common function for formatted output
+firebase-database	database	Firebase Realtime Database is a cloud hosted, NoSQL, JSON database that enables developers to create powerful and connected apps
+xcode4	tool	Xcode 4 was the main development tool for developing software under Mac OS X, targeting Mac OS and iOS.
+rust	systems programming language 	Rust is a systems programming language focused on three goals: safety, speed, and concurrency
+fluent-nhibernate IS NOT IN THE CATEGORY 
+key	identifier	A unique identifier used to retrieve a paired value.
+apache-camel	integration framework 	Apache Camel is a powerful open source integration framework based on known Enterprise Integration Patterns with powerful Bean Integration
+apple-push-notifications	service 	The Apple Push Notification Service is a service created by Apple Inc
+export	format	"Export" refers to the automated or semi-automated conversion of data sets from one data format to another
+localhost	network	In computer networking, localhost (meaning this computer) is the standard hostname given to the address of the loopback network interface.
+pip	replacement 	pip is a replacement for easy_install, intended to be an improved Python package installer.
+label IS NOT IN THE CATEGORY 
+ejb	component	Enterprise JavaBeans (EJB) is a managed, server-side component architecture for modular construction of enterprise applications
+pattern-matching IS NOT IN THE CATEGORY 
+scheme	programming language 	Scheme is a functional programming language in the Lisp family, closely modelled on lambda calculus with eager (applicative-order) evaluation
+type-conversion IS NOT IN THE CATEGORY 
+jquery-animate	method	Refers to jQuery's animate() method
+tensorflow	library 	TensorFlow is an open source library for machine learning and machine intelligence
+uwp	platform 	The Universal Windows Platform is a common platform for all devices running Windows 10
+extjs4 IS NOT IN THE CATEGORY 
+install	act 	Installation (or setup) of a program (including drivers, plugins, etc.) is the act of putting the program onto a computer system so that it can be executed.
+interface-builder	design tool 	Interface Builder is a visual design tool used to create user interfaces for Apple's Mac OS X and iOS platforms.
+html-table IS NOT IN THE CATEGORY 
+refactoring	technique 	Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior.
+double	format	Double precision floating-point format is a (most often) 64 bit data type used for storing fractional numbers.
+xamarin.forms	Xamarin product 	Xamarin.Forms is a Xamarin product allowing the build native UIs for iOS, Android, and Windows Phone from a single, shared C# (and Xaml codebase optional).
+admob	advertising company 	AdMob is a mobile advertising company owned by Google which lets developers monetize their Android, iOS, or Windows Phone 8 apps by "renting" screen real-estate to display ads
+http-post	protocol	POST is one of the HTTP protocol methods; it is used when the client needs to send data to the server, such as when uploading a file, or submitting a completed form.
+fragment IS NOT IN THE CATEGORY 
+sitecore	customer experience management system	Sitecore is a web content management (WCM) and customer experience management system built on Microsoft ASP.NET
+jetty	http server |servlet engine	Jetty is a widely-used async Java-based HTTP server and servlet engine supporting WebSockets and SPDY protocols
+apache2	server	Apache (HTTP Server) /é???p?|tê?i??/ is a modular cross-platform web server software with a large variety of features(called modules) including SSL, compression, log, proxy and server-side programming language interfaces like Perl, Python, Tcl, and PHP.
+protractor	test framework 	Protractor is an end-to-end test framework for AngularJS applications built on top of webdriverJS
+comparison IS NOT IN THE CATEGORY 
+malloc	function	The malloc function performs dynamic memory allocation in C and is part of the standard library
+client	application 	A client is an application or system that accesses a service made available by a server.
+salesforce	environment	A Platform-as-a-Service development environment delivered on Salesforce.com - the platform is more correctly referred to as Force.com
+jms	Java Message Oriented Middleware API 	The Java Message Service (JMS) API is a Java Message Oriented Middleware (MOM) API for sending messages between two or more clients
+ruby-on-rails-3.1 IS NOT IN THE CATEGORY 
+maven-2	software	Apache Maven is a software project management and comprehension tool
+devexpress	component vendor 	DevExpress is a component vendor for a variety of controls across different technologies.
+uilabel	text view 	The UILabel class implements a read-only text view in iOS
+many-to-many IS NOT IN THE CATEGORY 
+silverlight-4.0	platform	Silverlight is Microsoft's cross-browser, cross platform plug-in for media experiences and rich interactive applications
+mapping	element 	Corresponding every element of a given set to a unique element of another set or it may refer to a process of creating data element mappings between two distinct data models (objects)
+touch	interfaces	Touch-based interfaces have unique considerations that do not apply to other modes of input, and vice versa.
+android-widget IS NOT IN THE CATEGORY 
+range IS NOT IN THE CATEGORY 
+wxpython	Python wrapper 	wxPython is a Python wrapper for the cross-platform C++ GUI API wxWidgets.
+streaming	process 	Streaming is the process of delivering digital multimedia content from a provider to a consumer over a network
+ibm-mobilefirst IS NOT IN THE CATEGORY 
+video-streaming	process 	Video streaming is the process of delivering a video from a server to a client
+logic IS NOT IN THE CATEGORY 
+focus	user interface 	Focus indicates the component of the graphical user interface which is currently selected to receive input.
+subprocess	module	The Python subprocess module allows you to spawn new processes, connect to their input/output/error pipes, and obtain their return codes
+pipe	processes	A Unix pipe connects file descriptors of two processes
+liferay IS NOT IN THE CATEGORY 
+closures	function 	A closure is a first-class function that refers to (closes over) variables from the scope in which it was defined
+themes IS NOT IN THE CATEGORY 
+latex	macro package 	LaTeX is a macro package implemented on Donald Knuth's TeX programming language and is used primarily for creating high quality written documents.
+syntax-error	syntax	A syntax error occurs when a program does not follow the syntactical rules of the programming language.
+composer-php	tool 	Composer is a tool for dependency management in PHP
+runtime	program	Runtime is the time during which a program is running (executing)
+multiprocessing	system	Multiprocessing is the use of two or more central processing units (CPUs) within a single computer system
+authorization	process 	Authorization is the process of determining whether a user, program or device is allowed to access a protected resource in a particular way
+mule	enterprise service bus |integration platform	Mule is a lightweight Java-based enterprise service bus (ESB) and integration platform that allows developers to connect applications together quickly and easily, enabling them to exchange data
+operator-overloading	feature 	Operator overloading is a feature of a programming language that allows custom implementations for operators depending on the types of the operands involved.
+xmpp	protocol 	XMPP (Extensible Messaging and Presence Protocol) is an open, standard protocol for near-real-time exchange of XML-structured data.
+global-variables IS NOT IN THE CATEGORY 
+signalr	library	ASP.NET SignalR is a library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+uitabbarcontroller	view controller 	The UITabBarController class implements a specialized view controller that manages a radio-style selection interface
+report	tools	A report contains summarized information from a data source, usually in an end-user-friendly format, such as PDF or Excel, although proprietary reporting tools (usually with built-in design tools) also exist.
+kendo-grid	Kendo widget 	The Kendo Grid is a Kendo widget that displays tabular data and offers rich support interacting with data, including paging, sorting, grouping, and selection
+cucumber	Behavior Driven Development tool 	Cucumber is a Behavior Driven Development (BDD) tool that executes functional descriptions written in plain text (structured in the simple Gherkin language) as automated tests.
+gson	library 	Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON.
+nuget	package	NuGet is a free, open source developer focused package management system for the .NET platform.
+pdf-generation	process 	PDF generation is the process of creating a PDF document using various tools or libraries.
+nsmutablearray	array object 	NSMutableArray represents a modifiable (mutable) array object for Cocoa and Cocoa Touch
+qt4 IS NOT IN THE CATEGORY 
+c++-cli IS NOT IN THE CATEGORY 
+css-float IS NOT IN THE CATEGORY 
+iteration IS NOT IN THE CATEGORY 
+wordpress-theming	system	The WordPress Theme system is the way to style your WordPress powered weblog / website.
+registry	database 	The Windows Registry is a database where configuration settings for hardware, software and the Windows operating system itself are saved.
+output	program	The externally observable consequences of calling a program on some input
+fullcalendar	jQuery plugin 	Fullcalendar is a jQuery plugin developed by Adam Shaw that loads events by AJAX (as well as other methods) and presents them in a calendar/agenda display.
+ssrs-2008	platform	Microsoft SQL Server 2008 Reporting Services provides a server-based platform designed to support a wide variety of reporting needs enabling organizations to deliver relevant information where needed.
+64bit	architecture	A 64-bit architecture is usually a system where addresses (pointers) are 64 bits wide
+installer	computer programs 	A computer program responsible for installing other computer programs (aka software) on a system.
+jax-rs	JAX-RS: Java API 	JAX-RS: Java API for RESTful Web Services
+swt	user interface library 	SWT: The Standard Widget Toolkit is a user interface library for Java maintained by the Eclipse Foundation
+size IS NOT IN THE CATEGORY 
+apache-poi	Java library 	Apache POI(Poor Obfuscation Implementation) is a Java library for reading and writing various Microsoft file formats, especially Office related ones
+nsarray	objects	An immutable, integer-indexed array of objects from the Apple Foundation framework.
+client-server	model 	The client-server model is a centralized model, in which a server performs a specialized service (such as HTTP, SMTP, etc.) for multiple clients on request.
+fancybox	tool 	FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+sails.js	apps	Sails makes it easy to build custom, enterprise-grade Node.js apps
+height	property 	The property which determines the size of an object on the Y-axis.
+out-of-memory	exception 	An error or exception which is thrown when a program makes a request for memory that cannot be satisfied.
+awt	widget toolkit	The Abstract Window Toolkit (AWT) is Java's original platform-independent windowing, graphics, and user-interface widget toolkit.
+titanium	SDK 	Titanium is a JavaScript-based SDK allowing developers to create native iOS, Android, hybrid, and mobile web applications.
+itext IS NOT IN THE CATEGORY 
+hbase	Hadoop database 	HBase is the Hadoop database
+operators IS NOT IN THE CATEGORY 
+progress-bar	component 	A progress bar is a component in a graphical user interface used to convey the progress of a task, such as a download or file transfer.
+runtime-error	runtime	A runtime error is detected after or during the execution of a program.
+automated-tests	software	Test automation is the use of software to control the execution of tests, the comparison of actual outcomes to predicted outcomes, the setting up of test preconditions, and other test control and test reporting functions
+environment-variables	processes	Environment variables are a set of dynamic named values that can affect the way running processes will behave on a computer.
+tomcat7	container	Version 7.x (June 2010) of the Apache Tomcat servlet container
+handlebars.js	library 	Handlebars is a templating library for JavaScript.
+ms-access-2010 IS NOT IN THE CATEGORY 
+media-queries	application 	Media queries enable the conditional application of CSS styles based on media types, such as screen and print, and the conditions of media features, such as viewport and device height and width
+mongodb-query IS NOT IN THE CATEGORY 
+qml	language 	QML (Qt Meta Language or Qt Modeling Language) is a declarative language that allows user&#xD;&#xA;interfaces to be described in terms of their visual components and how&#xD;&#xA;they interact and relate with one another
+bit-manipulation IS NOT IN THE CATEGORY 
+wpf-controls	controls	WPF controls include UserControls, which are composite collections of other controls, and CustomControls, which are controls built with WPF styles and templates.
+underscore.js	library 	Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects
+tuples IS NOT IN THE CATEGORY 
+substring IS NOT IN THE CATEGORY 
+data.table	extension 	The R data.table package is an extension of data.frame
+pivot	syntax	The PIVOT syntax converts row data into columnar data, and vice versa for the UNPIVOT syntax.
+clang IS NOT IN THE CATEGORY 
+lisp IS NOT IN THE CATEGORY 
+tdd IS NOT IN THE CATEGORY 
+cross-domain	web applications 	Cross-domain refers to web applications that communicate outside of their hosting domain / web server.
+ember-data	data persistence extension 	ember-data is a data persistence extension for the Ember.js framework.
+try-catch IS NOT IN THE CATEGORY 
+android-webview IS NOT IN THE CATEGORY 
+websphere	flagship product 	IBM WebSphere Application Server, a software application server, is the flagship product within IBM's WebSphere brand
+android-camera	framework	The Android framework includes support for various cameras and camera features available on devices, allowing you to capture pictures and videos in your applications.
+expression IS NOT IN THE CATEGORY 
+tcl	languages	Tool Command Language was invented by John Ousterhout as a way to make it easy to write little languages for configuring EDA tools, but it has grown far beyond those humble beginnings to become a general scripting language with built-in asynchronous I/O and Unicode strings while supporting paradigms such as object-oriented programming and coroutines.
+html5-video	element 	HTML5 video is an element introduced in the HTML5 draft specification for the purpose of creating a standards-compliant, plugin-free way for playing videos and movies, partially replacing the object element.
+osgi	module system |service platform	The OSGi framework is a module system and service platform for the Java programming language that implements a complete and dynamic component model.
+2d IS NOT IN THE CATEGORY 
+associations	models	Associations typically refer to relationships between models in ORMs such as ActiveRecord.
+spring-data	umbrella open-source project 	Spring Data is an umbrella open source project which contains many subprojects that are specific to a given database
+akka	toolkit |runtime	Akka is an open-source toolkit and runtime simplifying the construction of concurrent and distributed applications on the JVM
+shared-libraries	libraries 	Shared libraries are libraries that are loaded by programs when they start
+nunit	unit testing framework 	NUnit is an open source unit testing framework for .NET and Silverlight written in C#
+drawing	system	Issues around forms and graphics being drawn onto a computer screen, windowing system or device
+character IS NOT IN THE CATEGORY 
+openerp	suite 	Odoo (formerly OpenERP) is a suite of web based open source business apps
+database-connection	database	A database connection is a facility that allows client software to communicate with database server software, whether on the same machine or not
+textarea	HTML element 	A textarea is an HTML element (tag) used to create a multi-line plain-text editing field.
+asp.net-web-api2	framework	ASP.NET Web API 2 is a framework for building HTTP services for clients like browsers and mobile devices
+sinatra	applications	Sinatra is a Domain Specific Language (DSL) for quickly creating web applications in Ruby with minimal effort
+jsoup	Java HTML Parser 	Java HTML Parser for extracting and manipulating HTML data, using the best of DOM, CSS, and jquery-like methods.
+jstl	library	JSTL (JSP Standard Tag Library) is a JSP based standard tag library which offers tags to control the flow in the JSP page, date/number formatting and internationalization facilities and several utility EL functions
+sencha-touch	device JavaScript library 	Sencha Touch is a multi mobile device JavaScript library based on HTML5 and the Model, View, Controller pattern.
+constraints IS NOT IN THE CATEGORY 
+flexbox	CSS3 module 	CSS3 module for flexible layouts providing a broad range of options for aligning elements while eliminating the need for floats and tables.
+width	property 	The property which determines the size of an object on the X-axis.
+ipython	shell 	IPython is a feature-rich interactive shell for Python, and provides a kernel for frontends such as IPython Notebook and Jupyter Notebook.
+tooltip	GUI element 	Tooltips are a GUI (Graphical User Interface) element which typically pops up when the mouse pointer is hovering over an item in the GUI and provides some contextual information or clarification.
+local-storage IS NOT IN THE CATEGORY 
+ionic	app	Cross-platform native mobile app development framework built with AngularJS for use in Cordova
+tableview	view	A table view is a means for displaying and editing hierarchical lists of information
+uml	object	Unified Modeling Language, an object modeling and specification language used in software engineering.
+preg-replace	PHP function 	preg_replace() is a PHP function that performs string replacement using regular expressions.
+httpwebrequest	class 	HttpWebRequest is a class for .NET Framework applications that provides a HTTP-specific implementation of the WebRequest class.
+android-service	application component 	A Service is an application component representing either an application's desire to perform a longer-running operation while not interacting with the user or to supply functionality for other applications to use.
+win-universal-app	apps	Windows Universal apps target multiple types of devices via a single codebase
+cloud	services	Cloud computing is about hardware-based services involving computing, network and storage capacities
+ssl-certificate IS NOT IN THE CATEGORY 
+sharedpreferences	applications	SharedPreferences allows you to save and retrieve persistent key-value pairs of primitive data types in Android applications
+comments	programming language construct 	A comment is a programming language construct used to embed non-compiled, programmer-readable annotations in the source code of a computer program.
+max IS NOT IN THE CATEGORY 
+google-play-services	app	With Google Play services, your Android app can take advantage of the latest, Google-powered features such as Maps, Google+, and more, with automatic platform updates distributed as an APK through the Google Play store
+android-sqlite IS NOT IN THE CATEGORY 
+weblogic	Java EE application server 	WebLogic Server is a Java EE application server from Oracle
