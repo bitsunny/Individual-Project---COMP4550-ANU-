@@ -1,0 +1,324 @@
+windows-ce	system	Microsoft Windows CE (now officially known as Windows Embedded Compact and previously also known as Windows Embedded CE, and sometimes abbreviated WinCE) is an operating system developed by Microsoft for embedded systems.
+data-warehouse	database	A data warehouse (DW) is a database specifically structured/designed to aid in querying, analyzing and reporting (generating reports out of) of current and historical data
+dns	system	The Domain Name System (DNS) is a hierarchical naming system built on a distributed database for computers, services, or any resource connected to the Internet or a private network.
+fancybox	tool	FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
+fabric	tool	A Python library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
+wordpress	system	WordPress is an open source content management system running on PHP and MySQL, and often used as a blog engine
+osx	system	macOS (formerly known as OS X or Mac OS X) is the desktop operating system from Apple, found on Macintosh computers
+multiprocessing	system	Multiprocessing is the use of two or more central processing units (CPUs) within a single computer system
+hibernate	library	Hibernate is an object-relational mapping (ORM) library for the Java language enabling developers to utilize POJO-style domain models in their applications in ways extending well beyond Object/Relational Mapping.
+richfaces	library	RichFaces is a component library for JSF and an advanced framework for easily integrating AJAX capabilities into business applications.
+d3.js	library	D3.js is a small, open-source JavaScript data visualization library for manipulating HTML, SVG, and CSS documents based on data.
+sympy	library	SymPy is an open source Python library for symbolic mathematics.
+omniauth	system	OmniAuth is a flexible authentication system for Ruby applications utilizing Rack middleware, such as Rails applications.
+sql-azure	database	Azure SQL Database is a relational PaaS database hosted in Microsoft Azure
+sencha-touch	library	Sencha Touch is a multi mobile device JavaScript library based on HTML5 and the Model, View, Controller pattern.
+filesystems	system	A file system is a way of organizing data on a computer system
+scala-collections	library	Collection library for Scala Programming Language
+relational-database	database	A relational database is a database consisting of relation variables (which are also called *relvars*, *R-tables* or just *tables*)
+inno-setup	tool	Inno Setup is a tool to create setup programs with an embedded Pascal-derived scripting language
+nvd3.js	library	NVD3.js is a library of re-usable charts and chart components for D3.js.
+sortable	plugin	A jQuery UI framework plugin which allows a developer to create a group of sortable blocks, which can be dragged and reordered by mouse.
+crud	system	The four basic operations for a data management system : Create, Read, Update, Delete
+bundler	tool	Bundler is a tool that makes it easier to keep track of what Ruby gems (and what versions of those gems) an application depends upon
+erb	system	ERB is a simple templating system for Ruby, embedding code in any plain-text document
+wordpress-theming	system	The WordPress Theme system is the way to style your WordPress powered weblog / website.
+couchdb	database	Apache CouchDB is a document-oriented database that can be queried and indexed in a MapReduce fashion
+opencv	library	OpenCV (Open Source Computer Vision) is a cross-platform library of programming functions for real time computer vision
+scikit-learn	library	scikit-learn is a machine-learning library for Python that provides simple and efficient tools for data analysis and data mining, with a focus on machine learning
+hdfs	system	Hadoop Distributed File System (HDFS) is the primary storage system used by Hadoop applications
+lxml	library	lxml is a full-featured, high performance Python library for processing XML and HTML.
+database-connection	database	A database connection is a facility that allows client software to communicate with database server software, whether on the same machine or not
+hsqldb	system	HSQLDB (HyperSQL Database) is a relational database management system
+add-in	plugin	AddIn (Add-In or Add In) is a synonym for plugin - a program that is triggered by a host program allowing third party developers to manipulate or extend the hosting program.
+expression-blend	tool	Expression Blend is a visual design tool used to create WPF, Silverlight, and Windows Phone 7 application user interfaces.
+pyinstaller	tool	PyInstaller is a multi-platform tool designed to convert Python (.py) files into stand-alone executable files in Windows, Linux, and Mac OS X, Solaris, and AIX.
+registry	database	The Windows Registry is a database where configuration settings for hardware, software and the Windows operating system itself are saved.
+tvos	system	tvOS is an operating system developed by Apple for the Apple TV based on its successful iOS operating system
+jquery	library	jQuery is a popular cross-browser JavaScript library that facilitates DOM (Document Object Model - HTML Structure) traversal, event handling, animations, and AJAX interactions by minimizing the discrepancies across browsers and providing an easy-to-use API.
+dropzone.js	library	An open-source javascript library which provides drag-and-drop file uploads with image previews
+cordova-plugins	plugin	A Cordova plugin bridges a bit of functionality between the WebView powering a Cordova application and the native platform the Cordova application is running on
+chart.js	library	Chart.js is a JavaScript library for creating animated, interactive graphs for inclusion on web pages
+svn	system	Subversion is a centralized open-source revision control system
+drools	system	Drools is a business rule management system (BRMS) with a forward chaining inference based rules engine, more correctly known as a production rule system, using an enhanced implementation of the Rete algorithm
+iostream	library	The C++ iostream library is an object-oriented library that provides input and output functionality using streams
+indy	library	Indy (short for Internet Direct) is an open source library for Delphi, C++Builder, and FreePascal, supporting client and server implementations of TCP, UDP and RAW sockets as well as over 100 higher level protocols
+dotnetopenauth	library	DotNetOpenAuth is an open source library for OpenID 1.1 and 2.0 supporting OAuth 1.0, 1.1, 2.0 as Consumer and Service Provider.
+highcharts	library	Highcharts is a Javascript charting library that uses HTML, SVG, and VML
+twitter4j	library	Twitter4J is a library enabling calls to the Twitter API from Java
+nsis	system	NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers
+dojo	library	Dojo Toolkit is an open source modular JavaScript library designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites
+jquery-chosen	plugin	Chosen is a JavaScript plugin that makes long, unwieldy select boxes much more user-friendly
+x11	system	X11 is an extensible windowing system for bitmap displays
+pandas	library	pandas is a Python library for Panel Data manipulation and analysis, e.g
+sql-server	system	Microsoft SQL Server is a relational database management system (RDBMS)
+interface-builder	tool	Interface Builder is a visual design tool used to create user interfaces for Apple's Mac OS X and iOS platforms.
+jetty	engine	Jetty is a widely-used async Java-based HTTP server and servlet engine supporting WebSockets and SPDY protocols
+theano	library	Theano is a numerical computation library for Python
+docker-compose	tool	Compose is a tool for defining and running complex applications with Docker
+sqlite	library	SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+yeoman	tool	Yeoman is a command-line tool for frontend web development
+rdbms	system	A relational database management system (RDBMS) is a database management system (DBMS) in which data is stored in tables and the relationships among the data are also stored in tables.
+kivy	library	Kivy is an open source Python library for rapid development of applications equipped with novel user interfaces, such as multi-touch apps.
+recaptcha	system	reCAPTCHA is a system originally developed at Carnegie Mellon University that uses CAPTCHA to help digitize the text of books while protecting websites from bots attempting to access restricted areas
+expressionengine	system	ExpressionEngine is a commercial content management system, written in PHP
+alamofire	library	Alamofire is an HTTP networking library written in Swift.
+elementtree	library	ElementTree is a Python library for creating and parsing XML.
+instruments	tool	Instruments usually refers to the performance analysis developer tool provided by Apple for Mac and iOS development.
+gettext	library	Gettext is an internationalization and localization (i18n) library which is commonly used for writing multilingual programs
+windows-xp	system	Windows XP is a Microsoft graphical operating system edition for use on personal computers, including home and business desktops, laptops, and media centers
+scipy	library	SciPy is an open source library of algorithms and mathematical tools for the Python programming language.
+gps	system	Abbreviation for Global Positioning System; a navigational system using satellite signals to fix the location of a radio receiver on or above the earth's surface
+android-espresso	library	Espresso is a library which is used to write Android UI tests
+jquery-ui	library	jQuery UI is the official jQuery user interface library
+api	library	DO NOT USE: Tag with the library you mean, [api-design], or something else appropriate instead.
+achartengine	library	A charting software library for Android applications by Dan Dromereschi.
+rpm	system	RPM Package Manager (RPM) is a package management system for unix based operating systems.
+remote-access	system	Remote access is the connection to a data processing system from a remote location.
+selenium-ide	tool	The Selenium-IDE (Integrated Development Environment) is the tool you use to develop your Selenium test cases
+symfony-forms	library	The Symfony form component is a standalone library that can be used outside of Symfony2 projects
+filenames	system	Filenames are metadata about a file; a string used to uniquely identify a file stored on the file system of a computer.
+proguard	tool	ProGuard is a tool to shrink, optimize, obfuscate, and preverify Java classes
+twig	engine	Twig is a modern, fast, flexible, and secure templating engine for PHP
+advanced-custom-fields	plugin	Advanced Custom Fields is a free WordPress plugin which acts as a GUI layer for custom fields
+birt	system	BIRT (Business Intelligence Reporting Tool) is an open source Eclipse-based reporting system that integrates with your Java/Java EE application to produce compelling reports.
+box2d	engine	Box2D is a free open source 2-dimensional physics simulator engine written in C++ by Erin Catto and published under the zlib license
+activeadmin	plugin	Active Admin is a Ruby on Rails plugin for generating administration style interfaces
+valgrind	tool	valgrind is a dynamic analysis tool for Linux and OS X systems
+qmake	tool	`qmake`, part of the Qt framework, is a tool for generating Makefiles and IDE project files.
+zxing	library	ZXing (pronounced "zebra crossing") is an open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages
+unity3d	engine	Unity is a cross-platform game engine with a built-in IDE developed by Unity Technologies
+upload	system	Upload refers to the sending of data from a local system to a remote system such as a server or another client with the intent that the remote system should store a copy of the data being transferred, or the initiation of such a process
+eigen	library	Eigen is a C++ template library for linear algebra: matrices, vectors, and related algorithms.
+browserify	tool	Browserify is a tool that packages Node.js modules for a web browser.
+highstock	library	Highstock is a JavaScript based charting library that lets you create timeline (especially stock) charts.
+aem	system	The Adobe Experience Manager is a large-scale web content management system that is currently available from Adobe Systems.It is the successor brand name of a previous product called Communiqu?? (short: CQ).
+tablesorter	plugin	tablesorter is a jQuery plugin for turning a standard HTML table with THEAD and TBODY tags into a sortable table without page refreshes.
+andengine	engine	AndEngine is a free 2D OpenGL game engine for the Android platform and includes the Box2D physics engine.
+single-sign-on	system	Single sign-on, a system for sharing authentication credentials between different systems
+egit	plugin	EGit is an Eclipse plugin for the Git version control system.
+shortcode	plugin	A shortcode allows Wordpress plugin authors to offer hooks for their functionality into templates in a concise manner
+jpa	database	The Java Persistence API (JPA) is a Java specification for accessing, persisting, and managing data between Java objects/classes and a relational database
+jstl	library	JSTL (JSP Standard Tag Library) is a JSP based standard tag library which offers tags to control the flow in the JSP page, date/number formatting and internationalization facilities and several utility EL functions
+static-linking	library	A static library or statically-linked library is a set of routines, external functions and variables which are resolved in a caller at compile-time and copied into a target application by a compiler, linker, or binder, producing an object file and a stand-alone executable
+gd	library	GD is an open source code library for the dynamic creation of images by programmers
+cdn	system	A content delivery network or content distribution network (CDN) is a system of computers containing copies of data placed at various nodes of a network.
+download	system	Receiving data to a local system from a remote system, or to initiate such a data transfer.
+resque	library	Resque (pronounced like "rescue") is a Redis-backed library for creating background jobs, placing those jobs on multiple queues, and processing them later.
+matplotlib	library	Matplotlib is a plotting library for Python which may be used interactively or embedded in stand-alone GUIs
+pydev	plugin	PyDev is an Eclipse plugin for Python development.
+afnetworking	library	AFNetworking is a networking library for iOS and Mac OS X
+h2	system	H2 is a relational database management system written in Java
+tweepy	library	An easy-to-use Python library for accessing the Twitter API
+ehcache	database	Ehcache is an open source, standards compliant Java-based cache used to boost performance, offload the database and simplify scalability.
+io	system	In computing, input/output, or I/O, refers to the communication between an information processing system (such as a computer), and the outside world, possibly a human, or another information processing system.
+postgresql	system	PostgreSQL is an open-source, object-relational database management system (ORDBMS) available for all major platforms including Linux, UNIX, Windows and OS X.
+fullcalendar	plugin	Fullcalendar is a jQuery plugin developed by Adam Shaw that loads events by AJAX (as well as other methods) and presents them in a calendar/agenda display.
+calendar	system	A calendar is a system of reckoning time in which the beginning, length and divisions of a year are defined
+sitecore	system	Sitecore is a web content management (WCM) and customer experience management system built on Microsoft ASP.NET
+reactjs	library	React is a JavaScript library for building user interfaces
+nltk	library	The Natural Language Toolkit is a Python library for computational linguistics.
+phonegap-plugins	plugin	A Cordova (PhoneGap) plugin bridges a bit of functionality between the WebView powering a Cordova application and the native platform the Cordova application is running on.
+hbase	database	HBase is the Hadoop database
+freebsd	system	FreeBSD is an advanced Unix-like operating system for modern server, desktop, and embedded computer platforms
+smarty	engine	Smarty is a templating engine for PHP
+interop	system	Interoperability is a requirement for one computer system or programming language to work with another.
+flot	library	Flot is a pure JavaScript plotting library for jQuery
+fosuserbundle	system	The FOSUserBundle adds support for a database-backed user system in Symfony2
+jquery-isotope	plugin	Isotope is a jQuery plugin that allows dynamic relayouts of elements on a page using CSS and jQuery transformations.
+winjs	library	The Windows Library for JavaScript (WinJS) is a JavaScript library that can be used with any HTML, CSS, and JavaScript project on any platform including web sites, native apps, and hybrid apps
+ant	tool	Apache Ant (formerly Jakarta Ant) is a declarative, XML-based build tool created originally for Java projects.
+mongoose	tool	Mongoose is a MongoDB object modeling tool, or ODM (Object Document Mapper), written in JavaScript and designed to work in an asynchronous environment.
+rvm	tool	RVM (Ruby Version Manager) is a command line tool which allows users to install, manage and work with multiple Ruby environments from interpreters to sets of gems easily in the various Unix-like systems (such as Linux and Mac OS X).
+joomla-extensions	system	Extensions for Joomla! an open source content management system for web sites, which can be heavily extended
+web-services	system	A "web service" is a software system designed to support interoperable machine-to-machine interaction over the World Wide Web.
+delayed-job	library	A Ruby library to queue and defer processing of slow methods like sending email and image resizing.
+python-requests	library	Requests is a full-featured Python HTTP library with an easy-to-use, logical API.
+teamcity	tool	TeamCity from JetBrains is a continuous integration tool and a distributed Java-based build management system that can be highly beneficial to teams using an agile development approach.
+vue.js	library	Vue.js is a library for building interactive web interfaces
+windows-mobile	system	Windows Mobile is a mobile operating system developed by Microsoft that was used in smartphones and mobile devices, but is being currently phased out to specialized markets
+fabricjs	library	Fabric.js is a HTML5 canvas library, providing object model for canvas, SVG-to-canvas, and canvas-to-SVG parser.
+jenkins	tool	Jenkins is an open source continuous integration tool written in Java, that has packages for Linux, Mac OS X, Windows, FreeBSD and OpenBSD
+momentjs	library	A lightweight JavaScript date library for parsing, manipulating, and formatting dates.
+apache-spark-sql	tool	Apache Spark SQL is a tool for for "SQL and structured data processing" on Spark, a fast and general-purpose cluster computing system.
+android-ndk	tool	The Android Native Development Kit (NDK) is a companion tool to the Android SDK that lets you build performance-critical portions of your apps in native code or port existing libraries in C/C++ to Android
+rubygems	tool	RubyGems is a package management tool for the Ruby programming language
+masm	tool	MASM is Microsoft's Macro Assembler tool for converting assembly language to object code.
+raphael	library	Rapha??l is a cross platform JavaScript library for outputting vector graphics in both standards compliant SVG (for Firefox, Chrome, Internet Explorer 9+ ...) and VML for older versions of Internet Explorer.
+woocommerce	plugin	WooCommerce is an open source eCommerce plugin available for WordPress.
+emulator	system	An emulator is a system which is designed to perform the duties of a different system.
+tesseract	engine	Tesseract is an OCR (Optical Character Recognition) engine originally developed at HP Labs and now available as an open source library with development sponsored by Google.
+oracle-apex	tool	Oracle Application Express (Oracle APEX) is a rapid Web application development tool that lets you share data and create applications
+components	system	A component in the Unified Modeling Language "represents a modular part of a system, that encapsulates its content and whose manifestation is replaceable within its environment
+liquibase	library	Liquibase is an open source, database-independent library for tracking, managing and applying database changes
+android-gradle	system	The Android Gradle Plugin is Android's standard build system
+underscore.js	library	Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects
+db2	database	DB2 is a family of database servers developed by IBM
+drawing	system	Issues around forms and graphics being drawn onto a computer screen, windowing system or device
+primefaces	library	PrimeFaces is a JSF component library that ships with a large set of rich components which utilizes jQuery and jQuery UI under the covers
+windows-vista	system	Windows Vista is an operating system released in several variations developed by Microsoft for use on personal computers, including home and business desktops, laptops, tablet PCs, and media center PCs
+leaflet	library	Leaflet is an open-source JavaScript library for displaying interactive maps.
+gson	library	Gson is Google's open-source library for serializing and deserializing Java objects to/from JSON.
+zlib	library	zlib is a library used for data compression
+cas	system	Central Authentication Service, a trusted system to authenticate a user or&#xD;&#xA;Code Access Security, a Microsoft .NET system for limiting actions that untrusted code can perform.
+appium	tool	An open-source test automation tool for use with native and hybrid mobile apps
+breeze	library	Breeze is a JavaScript library that helps manage data in a rich client application
+opengl	api	OpenGL (Open Graphics Library) is a graphics standard and API which is platform independent and available for desktop, workstation and mobile devices
+openlayers	library	OpenLayers 2.x is an open source Javascript web mapping library for creating web map applications
+swiftmailer	library	Swift Mailer is a library that integrates into any web app written in PHP 5, offering a flexible and elegant object-oriented approach to sending emails with a multitude of features.
+nant	tool	NAnt is a build tool for .Net, aiming to support all the various versions of the .Net framework, including all versions of Microsoft .NET, Compact Framework and Silverlight, Mono and Moonlight
+selenium	tool	Selenium is a popular open-source tool for automating web browsers
+zeromq	library	ZeroMQ (ZMQ, 0MQ, ??MQ) is a high-performance asynchronous messaging library aimed at use in scalable, distributed and/or concurrent applications.
+knockout.js	library	Knockout.js is an open source JavaScript library for dynamic HTML UIs using the Model-View-View Model (MVVM) pattern.
+fedora	system	Fedora is an RPM-based, general purpose collection of software, including an operating system based on the Linux kernel, developed by the community-supported Fedora Project and sponsored by Red Hat.
+logstash	tool	logstash is a tool for managing events and logs
+wif	library	The Windows Identity Foundation is a free Microsoft library that enables claims based authentication and use federated identity/single sign-on in their applications.
+freeze	system	freeze in programming refers to a condition where in the concerned code or system becomes unresponsive.
+boost-asio	library	Boost.Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.
+ssms	tool	Microsoft SQL Server Management Studio is a graphical tool for configuring, managing, and administering all components within Microsoft SQL Server.
+smack	library	Smack is an XMPP (Jabber) client library written in Java.
+neo4j	database	Neo4j is an open-source, transactional graph database well suited to connected data
+jena	library	Jena is an open-source Java library for processing RDF data in semantic web and linked-data applications
+jqgrid	plugin	jqGrid is an Ajax-enabled jQuery plugin that provides a solution for representing tabular data on the web.
+mysql-workbench	tool	MySQL Workbench is a visual database design tool that is developed by MySQL
+jackson	library	Jackson is a Java library for handling tasks like reading and writing (parsing / generating) and data binding to/from Java objects
+phpexcel	library	A PHP library to create, read, edit and write spreadsheet files for MS Excel and other spreadsheet programs&#xD;&#xA;
+installshield	tool	InstallShield (not including limited edition) is a software tool for creating MSI installers or software packages
+jquery-masonry	plugin	Masonry is a dynamic grid layout plugin for jQuery
+sbt	tool	sbt is an open source build tool for Scala and Java projects, similar to Java's Maven or Ant.
+ms-access	system	Microsoft Access, also known as Microsoft Office Access, is a database management system from Microsoft that commonly combines the relational Microsoft Jet/ACE Database Engine with a graphical user interface and software-development tools
+moodle	system	Moodle is an open source learning management system (LMS) written in PHP.
+testflight	tool	TestFlight was a developer tool provided by Apple for distributing iOS builds wirelessly to beta testers
+ncurses	library	The ncurses package is a subroutine library for terminal-independent screen-painting and input-event handling.
+antlr	tool	ANTLR, ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.
+apache-spark-mllib	library	MLlib is a machine learning library for Apache Spark
+oozie	system	Oozie is a workflow/coordination system to manage Hadoop Map Reduce jobs
+adt	plugin	Android Development Tools (ADT) is a plugin for the Eclipse IDE that is designed to give you a powerful, integrated environment in which to build Android applications.
+adb	tool	ADB (Android Debug Bridge) is a tool that comes with the Android SDK that allows you to control and interface with your Android device.
+visual-studio-lightswitch	tool	Microsoft Visual Studio LightSwitch is a rapid application development tool for creating data centric Silverlight or HTML5 applications
+readline	library	A library for command line editing, or a function to read one line of text.
+vagrant	tool	Vagrant is a command line tool for provisioning virtualized environments on top of various providers, including VirtualBox, VMWare and AWS.
+semantic-web	database	Representation of database record identifiers, columns and values as triples of URIs, thus enabling machines to share, merge and evaluate data from heterogeneous origins automatically.
+apache-poi	library	Apache POI(Poor Obfuscation Implementation) is a Java library for reading and writing various Microsoft file formats, especially Office related ones
+liquid	engine	Liquid is a templating engine for creating web pages.
+structuremap	tool	StructureMap is a Dependency Injection / Inversion of Control tool for .NET licensed under Apache 2
+typeahead.js	library	typeahead.js is a JavaScript library written by Twitter for computing and displaying suggestions as the user types - for instance, to implement autocomplete functionality
+marionette	library	Backbone.Marionette is a composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications
+colorbox	plugin	A light-weight, customizable lightbox plugin for jQuery 1.3.2+.
+capistrano	tool	Capistrano is a developer tool for deploying web applications
+innodb	engine	InnoDB is an ACID-compliant transactional storage engine for MySQL that uses MultiVersion Concurrency Control (MVCC).
+glibc	library	The GNU C library is used as the C library in the GNU system and most systems with the Linux kernel
+thymeleaf	engine	Thymeleaf is an XML/XHTML/HTML5 template engine (extensible to other formats) that can work both in web and non-web environments
+debian	system	Debian is a universal operating system composed of over 29000 free and open-source software packages
+unix	system	The Unix operating system is a general purpose OS that was developed by Bell Labs in the late 1960s and today exists in various versions
+build-process	system	The sequence of actions required to construct a software product or executable application, or the system which performs such actions.
+cucumber	tool	Cucumber is a Behavior Driven Development (BDD) tool that executes functional descriptions written in plain text (structured in the simple Gherkin language) as automated tests.
+jquery-validate	plugin	The jQuery Validate plugin is a jQuery plugin by J??rn Zaefferer
+signalr	library	ASP.NET SignalR is a library for ASP.NET developers that makes it incredibly simple to add real-time web functionality to your applications
+bluebird	library	Bluebird is a fully featured promise library for client and server JavaScript with focus on innovative features and performance.
+itextsharp	library	iTextSharp is a .NET open source library for PDF generation and manipulation.
+webkit	engine	WebKit is an open source web browser engine that powers Apple Safari, and several mobile browsers including the pre-installed browsers for Android, iOS, RIM Blackberry, Symbian and WebOS.
+lifecycle	system	A sequence of events or system calls relevant to the creation, startup, inactivation, resuming, shutdown and destruction (cleanup) of some program or its component (activity, library, servlet)
+virtualenv	tool	virtualenv is a tool that creates sandboxed Python environments.
+pcre	library	Perl Compatible Regular Expressions: regular expressions similar to those understood by Perl, implemented by PCRE library that offers them to other programs
+wireshark	tool	Wireshark is a network capture and protocol analyzer tool
+ubuntu	system	Ubuntu is a free desktop and server operating system based on Debian GNU/Linux
+javadoc	system	Javadoc is an extensible documentation generation system which reads specially formatted comments in Java source code and generates compiled documentation.
+qtp	tool	HP QuickTest Professional (QTP) is a functional and regression test automation tool for software applications and environments.
+jqplot	plugin	jqPlot is a plotting and charting plugin built on top of jQuery
+libxml2	library	Software library for parsing XML documents.
+marklogic	database	MarkLogic is an enterprise NoSQL database
+maven	tool	Apache Maven is a software project management and comprehension tool
+eof	system	End of file (commonly abbreviated EOF) is a condition in a computer operating system where no more data can be read from a data source.
+composer-php	tool	Composer is a tool for dependency management in PHP
+python-sphinx	tool	Sphinx is a tool that makes it easy to create intelligent and beautiful documentation
+rewrite	engine	Refers to URL rewriting, or the restructuring of a URL to improve readability and/or search engine optimization (SEO).
+solaris	system	Solaris is a Unix operating system originally developed by Sun Microsystems
+picasso	library	Picasso is an open source powerful image caching and downloading library by Square.
+firebase-database	database	Firebase Realtime Database is a cloud hosted, NoSQL, JSON database that enables developers to create powerful and connected apps
+decimal	system	Decimal is the name for our common base-ten numeral system
+stl	library	The Standard Template Library, or STL, is a C++ library of generic containers, iterators, algorithms, and function objects
+glut	library	The [Open]GL Utility Toolkit (GLUT) is a utility library for OpenGL applications to put the platform-dependent details (e.g
+linux	system	GNU/Linux, commonly shortened as Linux, is an open source operating system
+database	database	A database is an organized collection of data typically used to model certain situations
+datasource	database	Datasource is a name given to the connection set up to a database from a server
+hive	system	Hive is a data warehouse system for Hadoop that facilitates easy data summarization, ad-hoc queries, and the analysis of large datasets stored in Hadoop compatible file systems
+powermock	library	PowerMock is a Java library for creating mock objects for classes and methods that other similar libraries refuse to handle.
+paperclip	library	Paperclip is a library for the Ruby on Rails framework which makes dealing with file attachments easier
+android-volley	library	Volley is a Google library for Android that makes networking and remote image loading easier and faster.
+ravendb	database	RavenDB is an Open Source document database for the .NET/Windows platform
+swt	library	SWT: The Standard Widget Toolkit is a user interface library for Java maintained by the Eclipse Foundation
+sphinx	engine	Sphinx is a free software search engine for indexing database content
+spring-roo	tool	Spring Roo is a lightweight tool aimed at developer productivity.
+tensorflow	library	TensorFlow is an open source library for machine learning and machine intelligence
+mechanize	library	A library for automated web browsing originally developed for Perl, there are now also Python and Ruby implementations.
+libsvm	library	LIBSVM is a library for Support Vector Machines
+phpmyadmin	tool	phpMyAdmin is an open-source, web-based MySQL administration tool written in PHP
+profiler	tool	A profiler is a programming tool used to track and analyse the performance of a software program.
+jquery-ui-datepicker	plugin	The jQuery UI Datepicker is a highly configurable plugin that adds datepicker functionality to your pages
+sendgrid	engine	Cloud-based email infrastructure and delivery engine, with integration via SMTP and HTTP API
+sdl	library	SDL - Simple DirectMedia Layer is a cross-platform multimedia library designed to provide low level access to audio, keyboard, mouse, joystick, 3D hardware via OpenGL, and 2D video framebuffer
+meteor-blaze	system	Blaze is the render system for Meteor
+puppet	system	Puppet is a ruby-based Configuration Management system incorporating a model-driven DSL
+ipad	system	iPad is a tablet computer designed by Apple running the iOS operating system
+specflow	tool	A Behavior-Driven Development (BDD) tool for .NET.
+ios	system	iOS is the mobile operating system running on the Apple iPhone, iPod touch, and iPad
+host	system	A general-purpose computer system interconnected to some communications network, or communications networks for the purpose of achieving resource sharing amongst the participating systems is called Host.
+handlebars.js	library	Handlebars is a templating library for JavaScript.
+apache-spark	system	Apache Spark is an open source cluster computing system for large-scale data analytics computing.
+oracle-sqldeveloper	tool	Oracle SQL Developer is a free and fully supported graphical tool for database development.
+inheritance	system	Inheritance is the system in object oriented programming that allows objects to support operations defined by anterior types without having to provide their own definition
+blob	database	A BLOB is a collection of binary data stored as a single entity in a database management system.
+jfreechart	library	JFreeChart is a free Java chart library with many available chart types and support for numerous output types
+slick	library	Slick acronym for Scala Language-Integrated Connection Kit, is a modern database query and access library for Scala by Lightbend.
+grails-plugin	plugin	A Grails plugin is a self-contained bundle of functionality that can be installed into a Grails application.
+plone	system	Plone is a content management system (CMS) written in Python
+pdfbox	tool	The Apache PDFBox library is an open source Java tool for working with PDF documents
+uploadify	plugin	Uploadify is a jQuery plugin that integrates a fully-customizable multiple file upload utility on your website
+react-router	library	React Router - A complete routing library for React inspired by Embers routing system
+weka	library	Weka (Waikato Environment for Knowledge Analysis) is an open source machine learning library written in Java.
+log4net	tool	The Apache log4net library is a tool to help the programmer output log statements to a variety of output targets
+boot	system	The boot phase broadly refers to the set of operations that a computer system performs between power-on and access to a graphical/textual shell
+ms-access-2007	database	Microsoft Access 2007 - a rapid database application development tool
+rspec2	tool	RSpec 2 is a version of the Behaviour-Driven Development tool for Ruby programmers
+clock	system	Hardware and system clocks used by drivers, OS and hardware languages.
+unity5	engine	Unity 5 is a cross-platform game engine with a built-in IDE developed by Unity Technologies
+afnetworking-2	library	AFNetworking 2.0 is a networking library for iOS 6+ and Mac OS X 10.8+.
+windows-phone-8.1	system	Windows Phone 8.1 is a major update to Microsoft's Windows Phone 8 operating system
+fgets	library	Anything related to C or C++ standard library functions `fgets` (C) or `std::fgets` (C++)
+root	system	On Unix-like systems, a special user account used for system administration.
+jquery-ui-sortable	plugin	The jQuery UI Sortable plugin makes selected elements sortable by dragging with the mouse.
+firebird	database	Firebird is a free and open-source, cross-platform, client-server SQL relational database management system, running on Linux, Unix, and Windows
+fancybox-2	tool	Version 2.0 of the 'fancybox' tool
+ksoap2	engine	A lightweight and efficient SOAP engine suitable for J2ME or constrained java devices.
+django-urls	system	The Django URL dispatch system
+sql-server-express	database	Microsoft SQL Server Express is a freely downloadable and distributable version of Microsoft's SQL Server relational database management system
+jquery-ui-draggable	plugin	The jQuery UI Draggable plugin makes selected elements draggable with mouse movement.
+xcode4	tool	Xcode 4 was the main development tool for developing software under Mac OS X, targeting Mac OS and iOS.
+android-4.4-kitkat	system	Android 4.4 (codename KitKat) is API level 19 of the mobile operating system developed by Google.
+designer	tool	a visualized UI creating tool (commonly windows forms creators)
+sdl-2	library	Simple DirectMedia Layer (SDL2) is the second generation of a popular open source cross-platform C library that provides a simple interface to graphics, sound, and input devices
+cassandra-2.0	database	Casandra 2.0 is a NoSQL database sponsored by Apache.
+rethinkdb	database	RethinkDB is a scalable, open-source, distributed database system built to store JSON documents
+cmake	system	CMake is a cross-platform, open-source build system generator
+asp.net-identity	system	The ASP.NET Identity system is designed to replace the previous ASP.NET Membership and Simple Membership systems.
+couchbase	database	Couchbase Server is a distributed database engineered for performance, scalability, availability and flexible query
+opencv3.0	library	OpenCV (Open Source Computer Vision) is a library of programming functions mainly aimed at real-time computer vision, developed by itseez
+ios9	system	iOS 9 is the ninth version of Apple's iOS mobile operating system
+ios8	system	iOS 8 is the eighth version of Apple's iOS mobile operating system
+ios4	system	The 2010-2011 version of the iPhone/iPad/iPod Touch/Apple TV operating system family, made by Apple.
+ios7	system	iOS 7 is the seventh version of Apple's iOS mobile operating system and is the successor to iOS 6
+tfsbuild	system	Automated Builds using the Team Foundation Server / Visual Studio Team Services build system
+ios10	system	iOS 10 is the tenth version of Apple's iOS mobile operating system
+maya	tool	Autodesk Maya is a 3D modeling, animation and rendering tool used in film, TV and advertising
+libcurl	library	Multiprotocol internet transfer library
+windows-phone-7	system	Windows Phone is Microsoft's mobile operating system and software development platform
+webmatrix	database	Microsoft WebMatrix consists of a basic IDE bundled with a simple but powerful SQL database
+q	library	The Q.js JavaScript promise library
+dotnetnuke	system	A .NET open source content management system and web application development framework
+apache-storm	system	Storm is a distributed realtime computation system
+opencart	system	Free open source shopping cart system written in PHP and based on MVC architecture
+linkedin	tool	A tool used for finding business/networking connections, such as for suggesting job candidates.
+android-4.0	system	&#xD;&#xA;Android 4.0 (codename Ice Cream Sandwich) is API level 14 of the mobile operating system developed by Google
+maven-3	tool	Apache Maven is a tool for project management and build automation
+umbraco	system	Umbraco is an open source .NET based content management system
