@@ -15,4 +15,4 @@ Libraries required:
 1.regrouping category
 2.stduy word2vec and try to train a model to find similiar words and word's vector
 3.discuss with jixuan about operating big file which is about use time to change memory, but have not do it.
-the file is word2vec_tags.py, train_t2v.txt and
+the file is word2vec_tags.py, train_t2v.txt and allcategory_grouping.exel
