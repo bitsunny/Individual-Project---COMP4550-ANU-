@@ -1,0 +1,1001 @@
+javascript --- ['php']
+java --- ['c++', 'scala', 'delphi', 'c#', 'groovy']
+c# --- ['f#', 'delphi', 'java', 'c++', 'vb.net']
+php --- ['javascript', 'curl']
+android  has no category!*****************************
+jquery --- ['mootools', 'jquery-ui']
+python --- ['jython', 'lua']
+html --- ['css']
+c++ --- ['f#', 'ocaml', 'haskell', 'pascal', 'rust', 'c#', 'fortran']
+ios --- ['tvos', 'ios9', 'ios7', 'ios8', 'ipad']
+css --- ['css3', 'styling']
+mysql --- []
+sql --- []
+asp.net --- ['webforms']
+objective-c  has no category!*****************************
+ruby-on-rails --- ['merb', 'padrino']
+.net --- ['silverlight', 'asp.net']
+c --- ['c++', 'fortran']
+iphone  has no category!*****************************
+angularjs --- ['aurelia', 'ember.js', 'vue.js', 'angular2']
+arrays --- []
+sql-server --- []
+json --- ['jsonobject']
+ruby  has no category!*****************************
+r --- []
+ajax --- []
+regex --- ['sed']
+node.js --- ['tornado', 'meteor']
+xml --- ['xsd', 'xmldocument']
+asp.net-mvc --- []
+linux --- ['osx', 'debian', 'unix', 'solaris', 'ubuntu', 'freebsd']
+django --- ['mezzanine', 'silverstripe', 'cakephp', 'web2py']
+swift --- []
+wpf --- []
+database --- []
+xcode --- []
+excel  has no category!*****************************
+string  has no category!*****************************
+vb.net --- ['vbscript', 'vba', 'c#', 'delphi']
+wordpress --- ['moodle', 'concrete5']
+windows --- []
+eclipse --- []
+spring --- ['struts2']
+html5 --- []
+multithreading --- []
+git --- ['cvs', 'perforce']
+oracle --- []
+forms --- []
+bash --- ['awk', 'ksh', 'sed']
+image  has no category!*****************************
+facebook --- []
+mongodb  has no category!*****************************
+twitter-bootstrap --- ['materializecss', 'semantic-ui']
+osx --- ['linux', 'ubuntu']
+vba --- ['excel-vba', 'vb.net', 'vbscript']
+winforms --- []
+algorithm --- ['quicksort']
+apache  has no category!*****************************
+matlab --- []
+performance  has no category!*****************************
+swing --- ['awt', 'swt', 'wxpython']
+entity-framework --- []
+visual-studio --- []
+postgresql --- []
+linq --- []
+python-2.7  has no category!*****************************
+scala --- ['kotlin', 'f#', 'haskell', 'rust', 'groovy', 'java', 'ocaml', 'ceylon', 'xtend']
+hibernate --- ['mybatis', 'ebean', 'nhibernate', 'ibatis']
+list  has no category!*****************************
+css3 --- ['css']
+ruby-on-rails-3 --- []
+qt --- ['wxwidgets']
+excel-vba --- ['word-vba', 'vba']
+perl  has no category!*****************************
+.htaccess  has no category!*****************************
+web-services --- []
+function --- []
+sqlite --- ['sqlite3']
+shell --- []
+laravel  has no category!*****************************
+file  has no category!*****************************
+rest --- []
+codeigniter --- ['yii2', 'cakephp', 'kohana']
+api --- []
+uitableview --- ['uicollectionview', 'uiview', 'uitextview']
+cordova --- ['cordova-plugin-file']
+sql-server-2008  has no category!*****************************
+maven --- ['ant', 'leiningen', 'sbt']
+google-maps --- []
+python-3.x --- []
+visual-studio-2010 --- []
+wcf --- []
+validation --- []
+class --- []
+unit-testing --- []
+sockets  has no category!*****************************
+symfony2  has no category!*****************************
+google-chrome --- []
+loops --- []
+jsp  has no category!*****************************
+xaml --- []
+tsql --- []
+sorting --- ['grouping']
+android-layout --- []
+date  has no category!*****************************
+email --- []
+powershell --- ['msbuild']
+actionscript-3 --- []
+csv --- ['tsv', 'xlsx', 'xls']
+listview --- ['gridview']
+security  has no category!*****************************
+http --- ['https', 'rpc']
+asp.net-mvc-4 --- ['asp.net-mvc-5']
+spring-mvc --- []
+oop --- []
+asp.net-mvc-3 --- []
+user-interface  has no category!*****************************
+parsing  has no category!*****************************
+delphi --- ['vb.net']
+google-app-engine --- []
+azure --- []
+cocoa --- []
+jquery-ui --- ['jquery-mobile', 'jquery', 'mootools']
+magento --- ['woocommerce']
+selenium --- ['protractor']
+datetime --- ['datetimeoffset']
+opencv --- ['dlib', 'emgucv', 'vtk', 'opencv4android']
+c++11  has no category!*****************************
+internet-explorer --- []
+flash  has no category!*****************************
+debugging --- ['profiling']
+ipad --- []
+templates --- []
+cocoa-touch --- []
+batch-file --- []
+amazon-web-services --- []
+session --- []
+ruby-on-rails-4  has no category!*****************************
+android-studio  has no category!*****************************
+pandas --- ['dplyr', 'dask', 'pytables', 'scipy']
+variables  has no category!*****************************
+pointers  has no category!*****************************
+unix --- ['linux', 'solaris']
+ubuntu --- ['linux', 'fedora', 'debian', 'opensuse']
+object --- ['entity']
+ms-access --- ['sql-server']
+jsf --- ['richfaces', 'wicket', 'primefaces', 'icefaces', 'struts2']
+hadoop --- []
+tomcat  has no category!*****************************
+numpy --- []
+haskell --- ['f#', 'prolog', 'rust', 'idris', 'racket', 'sml', 'ocaml', 'scala']
+authentication --- ['authorization']
+android-fragments is not in the model!-------------------------------------------------------------------
+url --- []
+pdf --- []
+facebook-graph-api --- []
+firefox --- ['safari']
+if-statement --- ['while-loop']
+dictionary --- ['hashmap']
+reactjs --- ['aurelia', 'ember.js', 'vue.js', 'angular2']
+for-loop --- ['if-statement', 'while-loop', 'foreach']
+animation  has no category!*****************************
+generics  has no category!*****************************
+winapi --- []
+jpa --- []
+express --- []
+redirect  has no category!*****************************
+angular2 --- ['aurelia', 'angularjs', 'vue.js', 'ember.js', 'reactjs']
+ssl --- ['https', 'kerberos']
+silverlight --- ['uwp']
+cakephp --- ['codeigniter', 'silverstripe', 'kohana']
+opengl --- []
+exception --- ['invalidoperationexception', 'illegalargumentexception', 'illegalstateexception']
+events --- []
+servlets --- []
+mod-rewrite --- []
+inheritance --- ['crtp']
+xslt --- ['xsl-fo', 'xquery']
+caching --- []
+grails --- []
+dom  has no category!*****************************
+curl --- ['php']
+select --- []
+testing --- []
+iis --- []
+math  has no category!*****************************
+java-ee --- []
+search  has no category!*****************************
+button --- []
+post --- ['response']
+gcc --- []
+join --- []
+asynchronous --- []
+flex --- ['gwt', 'silverlight', 'flex3', 'extjs']
+audio --- []
+meteor --- ['ember.js', 'node.js']
+stored-procedures --- []
+svn --- []
+video  has no category!*****************************
+c#-4.0 --- []
+android-intent  has no category!*****************************
+networking  has no category!*****************************
+image-processing  has no category!*****************************
+recursion --- []
+canvas --- ['rect', 'svg']
+d3.js --- ['nvd3.js', 'highcharts', 'flot', 'dc.js', 'rickshaw', 'sigma.js', 'cytoscape.js']
+visual-c++ --- []
+memory  has no category!*****************************
+iframe --- ['anchor']
+assembly --- []
+logging --- ['debugging']
+android-activity  has no category!*****************************
+core-data --- []
+razor --- []
+design-patterns --- []
+visual-studio-2012  has no category!*****************************
+gridview --- ['repeater', 'datalist', 'datagridview', 'listview', 'radgrid']
+jquery-mobile --- ['jquery-ui', 'twitter-bootstrap']
+cookies --- []
+heroku --- ['appharbor', 'nodejitsu', 'cloudfoundry', 'capistrano']
+activerecord --- ['datamapper']
+encryption --- []
+nginx --- ['varnish']
+matrix --- ['submatrix']
+svg --- ['vml', 'canvas']
+optimization --- []
+elasticsearch  has no category!*****************************
+xpath --- []
+serialization --- ['deserialization', 'marshalling']
+github --- []
+model-view-controller  has no category!*****************************
+unity3d --- ['libgdx', 'cocos2d-js', 'xna', 'unity5']
+mobile  has no category!*****************************
+sharepoint  has no category!*****************************
+extjs --- ['richfaces', 'wicket', 'primefaces', 'dojo', 'gxt', 'vaadin', 'smartgwt']
+apache-spark --- ['giraph']
+jdbc --- []
+web  has no category!*****************************
+soap --- []
+asp.net-web-api --- []
+arraylist --- []
+matplotlib --- ['ggplot2', 'seaborn', 'mayavi', 'mplot3d']
+vim --- ['textmate', 'emacs', 'notepad++', 'macvim', 'gedit']
+layout  has no category!*****************************
+google-maps-api-3  has no category!*****************************
+ember.js --- ['aurelia', 'angularjs', 'vue.js', 'reactjs', 'angular2']
+backbone.js  has no category!*****************************
+checkbox --- ['textbox']
+table  has no category!*****************************
+memory-management --- []
+windows-phone-7 --- []
+multidimensional-array  has no category!*****************************
+vector --- []
+typescript --- []
+zend-framework --- ['fuelphp', 'lithium', 'restler']
+gwt --- ['wicket', 'jsf', 'gxt', 'vaadin', 'gwtp', 'smartgwt', 'dojo']
+twitter --- []
+boost --- []
+text --- []
+file-upload --- []
+random  has no category!*****************************
+intellij-idea --- []
+go --- []
+netbeans --- ['myeclipse']
+jenkins --- ['buildbot', 'rundeck', 'teamcity', 'cruisecontrol', 'maven']
+input --- []
+gradle --- []
+mvvm --- []
+selenium-webdriver --- []
+methods --- []
+mysqli  has no category!*****************************
+browser --- []
+parse.com --- []
+dynamic --- []
+design --- ['architecture']
+dll --- ['.lib', 'exe']
+windows-phone-8  has no category!*****************************
+xamarin --- []
+sql-server-2005  has no category!*****************************
+visual-studio-2013  has no category!*****************************
+indexing --- []
+nhibernate --- ['hibernate', 'mybatis']
+plugins --- []
+docker --- []
+javafx --- []
+data-structures --- []
+database-design --- []
+drupal --- ['episerver', 'magento']
+file-io  has no category!*****************************
+reflection --- []
+pdo --- []
+plot --- []
+knockout.js --- ['ember.js', 'vue.js', 'canjs', 'jsviews']
+firebase --- ['kinvey']
+reporting-services is not in the model!-------------------------------------------------------------------
+web-applications --- []
+unicode --- []
+awk --- ['ksh', 'bash', 'sed', 'gawk', 'nawk']
+time --- []
+dataframe --- []
+data-binding --- []
+hash --- ['sha1', 'md5', 'salt']
+service --- []
+twitter-bootstrap-3 --- ['twitter-bootstrap']
+ionic-framework --- ['nativescript', 'onsen-ui']
+amazon-s3 --- []
+groovy --- ['kotlin', 'java', 'scala', 'jython']
+struct --- ['typedef', 'member']
+ssh  has no category!*****************************
+paypal --- ['authorize.net', 'payment', '2checkout']
+drop-down-menu --- []
+encoding  has no category!*****************************
+graph  has no category!*****************************
+primefaces --- ['richfaces', 'openfaces', 'jsf', 'icefaces', 'smartgwt', 'extjs']
+replace --- []
+sed --- ['awk', 'regex', 'bash', 'gawk']
+login --- ['authentication', 'registration', 'logout']
+jsf-2 --- ['tiles2']
+collections --- []
+visual-studio-2008  has no category!*****************************
+yii  has no category!*****************************
+amazon-ec2  has no category!*****************************
+command-line --- []
+deployment --- ['installation', 'packaging']
+uiview --- ['uitableview', 'calayer']
+django-models --- []
+android-listview --- []
+printing --- []
+angularjs-directive  has no category!*****************************
+google-chrome-extension --- []
+view  has no category!*****************************
+utf-8 --- ['cp1252', 'iso-8859-1', 'windows-1252']
+scroll  has no category!*****************************
+solr --- []
+charts --- []
+ios7 --- ['ios4', 'ios9', 'ios8', 'ios10', 'ios']
+highcharts --- ['jqplot', 'highstock', 'chart.js', 'd3.js', 'flot']
+laravel-5 --- ['zend-framework2', 'ruby-on-rails']
+graphics  has no category!*****************************
+junit --- ['scalatest', 'testng', 'robolectric', 'nunit', 'swtbot', 'spock', 'junit4', 'junit3']
+datagridview --- ['gridview', 'gridcontrol']
+emacs --- ['vim', 'aquamacs', 'macvim']
+tcp --- ['sctp']
+makefile --- []
+ggplot2 --- ['lattice', 'seaborn', 'matplotlib', 'rcharts']
+spring-boot --- []
+spring-security --- ['spring-security-oauth2', 'resteasy', 'picketlink']
+google-apps-script  has no category!*****************************
+plsql --- ['sqlclr', 'abap', 'plpgsql']
+foreach --- ['for-loop']
+webview --- []
+lambda --- []
+types --- []
+vbscript --- ['vba', 'jscript', 'vb.net', 'autoit']
+flask  has no category!*****************************
+visual-studio-2015 --- []
+tfs --- ['teamcity']
+memory-leaks --- []
+laravel-4 --- []
+rspec --- ['cucumber', 'capybara', 'jasmine', 'mocha', 'minitest']
+joomla  has no category!*****************************
+https --- ['ssl', 'http']
+oauth --- []
+filter --- []
+syntax --- []
+import --- []
+ant --- ['msbuild', 'maven', 'buildr', 'sbt', 'nant']
+playframework --- ['dropwizard', 'play-slick', 'scalatra']
+fonts  has no category!*****************************
+javascript-events --- []
+dependency-injection --- []
+linq-to-sql --- []
+tkinter --- []
+jar  has no category!*****************************
+hyperlink --- ['href']
+mongoose --- []
+error-handling --- ['flow-control']
+cmd --- []
+uiviewcontroller --- []
+concurrency --- []
+timer --- []
+orm --- []
+oracle11g --- []
+doctrine2  has no category!*****************************
+machine-learning --- []
+colors  has no category!*****************************
+parameters  has no category!*****************************
+version-control --- []
+combobox  has no category!*****************************
+constructor  has no category!*****************************
+clojure  has no category!*****************************
+datatable --- []
+enums  has no category!*****************************
+google-analytics --- ['adsense']
+while-loop --- ['if-statement', 'for-loop']
+properties --- []
+binding  has no category!*****************************
+build --- []
+jquery-plugins --- []
+process  has no category!*****************************
+interface --- []
+bitmap --- []
+casting --- []
+kendo-ui --- ['dhtmlx', 'shieldui', 'webix', 'jqwidget']
+opengl-es  has no category!*****************************
+devise --- ['omniauth', 'cancan', 'fosuserbundle']
+datagrid --- ['listbox']
+merge --- []
+android-asynctask  has no category!*****************************
+ios5  has no category!*****************************
+module  has no category!*****************************
+menu --- []
+configuration --- []
+exception-handling --- []
+ssis --- ['ssms']
+neo4j --- ['couchbase', 'arangodb', 'titan']
+io --- ['nio']
+responsive-design --- []
+jboss  has no category!*****************************
+autocomplete --- ['autosuggest']
+proxy --- []
+url-rewriting --- []
+websocket --- []
+triggers  has no category!*****************************
+download --- ['upload']
+sqlite3 --- ['spatialite', 'psycopg2', 'sqlite']
+split  has no category!*****************************
+terminal --- []
+architecture --- []
+npm --- ['tsd', 'bower', 'jspm']
+model  has no category!*****************************
+lua --- ['python', 'rust', 'racket', 'c++', 'ocaml', 'erlang']
+scope  has no category!*****************************
+sql-server-2012  has no category!*****************************
+youtube --- ['vimeo']
+nullpointerexception --- ['filenotfoundexception', 'nullreferenceexception', 'noclassdeffounderror']
+bluetooth  has no category!*****************************
+count --- []
+reference --- []
+coldfusion --- ['drupal']
+safari --- ['firefox']
+ffmpeg --- []
+webforms --- ['asp.net']
+static --- []
+stl --- ['eigen', 'iostream']
+ios4 --- ['ios9', 'ios7', 'ios10', 'ios8']
+parallel-processing  has no category!*****************************
+path  has no category!*****************************
+cassandra  has no category!*****************************
+scripting  has no category!*****************************
+3d  has no category!*****************************
+compilation --- []
+compiler-errors --- []
+asp.net-mvc-5 --- ['asp.net-mvc-4']
+background --- ['foreground']
+callback  has no category!*****************************
+controller --- []
+xsd --- ['xml']
+datepicker --- ['tooltip']
+character-encoding --- []
+permissions --- []
+transactions  has no category!*****************************
+tabs --- []
+pagination --- []
+push-notification --- []
+upload --- ['download']
+ftp --- ['rdp']
+sdk --- []
+f# --- ['haskell', 'sml', 'rust', 'c++', 'ocaml', 'scala', 'c#']
+linked-list --- []
+phpmyadmin --- ['ssms']
+uiscrollview  has no category!*****************************
+cocos2d-iphone  has no category!*****************************
+struts2 --- ['wicket', 'struts1', 'jsf', 'spring', 'thymeleaf']
+windows-8 --- []
+tree --- ['trie']
+windows-7  has no category!*****************************
+ms-word  has no category!*****************************
+outlook --- ['lync', 'thunderbird']
+get --- []
+insert --- []
+linux-kernel  has no category!*****************************
+redis --- []
+asp-classic  has no category!*****************************
+dns --- []
+routing --- []
+camera --- []
+null  has no category!*****************************
+web-scraping --- ['web-crawler']
+jqgrid --- ['jqxgrid']
+socket.io --- []
+android-ndk --- []
+uiwebview --- ['uicollectionview', 'uitableview', 'uitextview', 'uipopovercontroller', 'uipageviewcontroller']
+group-by --- []
+xml-parsing --- []
+notifications  has no category!*****************************
+mfc --- ['wxwidgets', 'firemonkey']
+sql-server-2008-r2  has no category!*****************************
+mapreduce --- []
+cuda --- []
+three.js --- []
+textbox --- ['textarea', 'listbox']
+sass --- []
+macros --- []
+com --- []
+compiler-construction  has no category!*****************************
+localization --- ['internationalization', 'globalization']
+grep --- ['ls']
+crystal-reports --- []
+routes  has no category!*****************************
+arduino --- []
+server --- []
+google-spreadsheet  has no category!*****************************
+sprite-kit --- ['scenekit', 'cocos2d-js']
+calendar --- []
+functional-programming --- []
+msbuild --- ['msdeploy', 'teamcity', 'nant', 'ant']
+eclipse-plugin --- ['uberjar']
+ios8 --- ['ios4', 'ios9', 'ios10', 'ios7']
+libgdx --- ['slick2d', 'andengine', 'unity3d']
+map --- ['hashmap']
+active-directory --- []
+installation --- ['deployment']
+excel-formula  has no category!*****************************
+drag-and-drop --- []
+automation --- ['integration']
+lucene --- []
+cron --- []
+oauth-2.0 --- []
+google-api  has no category!*****************************
+onclick --- ['onload', 'onsubmit', 'onmouseover', 'onclientclick', 'onchange']
+hive --- ['hdfs']
+stream  has no category!*****************************
+iis-7  has no category!*****************************
+linker  has no category!*****************************
+dialog  has no category!*****************************
+header  has no category!*****************************
+listbox --- ['datagrid', 'textbox']
+coffeescript --- ['jsx']
+woocommerce --- ['shopify', 'magento']
+frameworks --- []
+binary  has no category!*****************************
+crash --- []
+xamarin.ios --- ['monomac', 'xamarin.mac', 'mvvmcross', 'uwp']
+cmake --- []
+uinavigationcontroller --- ['uisplitviewcontroller', 'uitabbarcontroller']
+uiimageview --- []
+react-native --- []
+actionscript --- ['haxe', 'mxml']
+ios6  has no category!*****************************
+drupal-7  has no category!*****************************
+vb6 --- []
+sqlalchemy --- ['psycopg2']
+datatables --- []
+user-controls --- []
+uibutton --- ['uilabel']
+dojo --- ['yui3', 'mootools', 'jquery-ui', 'extjs']
+namespaces --- []
+floating-point  has no category!*****************************
+navigation --- []
+blackberry --- []
+internet-explorer-8 is not in the model!-------------------------------------------------------------------
+console --- []
+jaxb --- []
+android-edittext is not in the model!-------------------------------------------------------------------
+swift2  has no category!*****************************
+asp.net-mvc-2  has no category!*****************************
+keyboard --- []
+delegates  has no category!*****************************
+rotation --- []
+sharepoint-2010  has no category!*****************************
+hashmap --- ['dictionary', 'multimap', 'concurrenthashmap']
+.net-4.0  has no category!*****************************
+gruntjs --- []
+mono --- []
+django-forms --- ['wtforms']
+gps --- []
+scipy --- ['scikit-learn', 'cvxopt', 'theano', 'lapack']
+garbage-collection --- []
+geolocation  has no category!*****************************
+annotations --- []
+iterator --- ['iterable']
+event-handling  has no category!*****************************
+android-emulator --- []
+network-programming --- []
+internationalization --- ['localization', 'globalization']
+windows-runtime --- []
+x86 --- ['riscv']
+zend-framework2 --- ['laravel-5.2', 'laravel-5']
+gulp --- []
+java-8  has no category!*****************************
+telerik --- []
+openssl --- ['zlib', 'gnutls', 'libssh2', 'libcurl']
+android-actionbar --- []
+attributes --- []
+char --- []
+django-templates  has no category!*****************************
+formatting --- ['styling']
+cryptography  has no category!*****************************
+ado.net --- []
+android-viewpager is not in the model!-------------------------------------------------------------------
+yii2 --- ['codeigniter', 'cakephp', 'octobercms']
+angularjs-scope is not in the model!-------------------------------------------------------------------
+tags  has no category!*****************************
+css-selectors --- []
+autolayout --- ['uistackview']
+eloquent --- ['mongoose']
+centos --- []
+windows-phone-8.1 is not in the model!-------------------------------------------------------------------
+textview --- ['imageview', 'spinner']
+access-vba --- ['outlook-vba', 'word-vba', 'excel-vba', 'object-pascal']
+directory --- ['dir', 'folder']
+nested  has no category!*****************************
+jquery-selectors --- []
+jersey  has no category!*****************************
+ide --- []
+nosql --- []
+wsdl --- []
+prolog --- ['sml', 'swi-prolog', 'agda', 'haskell', 'racket', 'ocaml']
+request --- ['httprequest', 'http-request']
+popup --- ['popover', 'tooltip']
+cross-browser --- []
+angular-ui-router --- []
+uiimage --- ['calayer', 'bufferedimage', 'nsimage', 'ciimage', 'uiview', 'nsdata']
+serial-port --- []
+air --- []
+wordpress-plugin --- []
+language-agnostic  has no category!*****************************
+grid  has no category!*****************************
+wix --- []
+uicollectionview --- ['uitableview', 'uipageviewcontroller', 'uicollectionviewcell']
+jvm --- []
+operating-system --- []
+imageview --- ['imagebutton', 'cardview', 'textview']
+jackson --- ['gson', 'json.net', 'xstream', 'flexjson', 'kryo']
+entity-framework-4  has no category!*****************************
+doctrine --- []
+segmentation-fault --- ['sigsegv', 'sigabrt']
+mocking --- []
+http-headers  has no category!*****************************
+website  has no category!*****************************
+rubygems --- ['bcrypt-ruby', 'bundler', 'rvm']
+jframe --- []
+pyqt --- []
+modal-dialog  has no category!*****************************
+statistics  has no category!*****************************
+storyboard  has no category!*****************************
+mercurial  has no category!*****************************
+youtube-api --- []
+hover --- ['mouseout', 'mouseover']
+numbers --- []
+google-drive-sdk  has no category!*****************************
+sas --- []
+beautifulsoup --- ['lxml', 'html5lib', 'lxml.html']
+resources --- []
+include --- []
+smtp  has no category!*****************************
+ldap --- ['kerberos']
+asp.net-core --- ['asp.net-mvc']
+passwords --- []
+jasmine --- ['qunit', 'chai', 'protractor', 'cucumberjs', 'sinon', 'mocha']
+xmlhttprequest --- ['xdomainrequest']
+applet  has no category!*****************************
+xampp  has no category!*****************************
+integer  has no category!*****************************
+timezone  has no category!*****************************
+webpack  has no category!*****************************
+resize  has no category!*****************************
+xna --- ['opentk', 'slimdx', 'unity3d']
+promise --- []
+sum --- []
+initialization --- []
+synchronization --- []
+erlang --- ['ocaml', 'lua', 'haskell', 'elixir']
+jtable --- []
+xamarin.android --- []
+int  has no category!*****************************
+jni --- []
+ruby-on-rails-3.2  has no category!*****************************
+widget --- ['panel', 'datepicker', 'tooltip']
+raspberry-pi --- []
+radio-button  has no category!*****************************
+udp --- []
+ef-code-first  has no category!*****************************
+format --- []
+fortran --- ['c++', 'pascal']
+ecmascript-6  has no category!*****************************
+seo  has no category!*****************************
+web-config  has no category!*****************************
+windows-services --- []
+order  has no category!*****************************
+copy --- ['clone']
+find  has no category!*****************************
+coding-style  has no category!*****************************
+rss  has no category!*****************************
+slider --- ['trackbar']
+requirejs --- []
+nsstring --- ['nsdata', 'nsurl']
+timestamp --- []
+html5-canvas --- []
+duplicates  has no category!*****************************
+stack --- ['callstack']
+click  has no category!*****************************
+webdriver --- []
+save  has no category!*****************************
+gdb --- ['lldb', 'windbg']
+dependencies --- []
+glassfish --- []
+switch-statement --- []
+db2 --- ['vertica']
+treeview --- ['gridview', 'datagridview', 'tabcontrol', 'treelist']
+jasper-reports --- []
+google-cloud-messaging --- []
+arm  has no category!*****************************
+playframework-2.0 is not in the model!-------------------------------------------------------------------
+json.net --- ['gson', 'jackson']
+set --- []
+windows-phone --- []
+windows-store-apps --- []
+sql-update --- ['sql-insert', 'sql-delete']
+recyclerview  has no category!*****************************
+return --- []
+command --- []
+position --- ['coordinates']
+gem  has no category!*****************************
+location  has no category!*****************************
+geometry  has no category!*****************************
+log4j --- []
+scrapy --- ['mechanize', 'lxml', 'beautifulsoup']
+ckeditor --- ['codemirror', 'fckeditor', 'nicedit', 'redactor']
+jmeter  has no category!*****************************
+boolean  has no category!*****************************
+g++  has no category!*****************************
+window --- []
+connection --- []
+cursor --- []
+timeout --- []
+wso2 --- []
+documentation --- []
+foreign-keys  has no category!*****************************
+scikit-learn --- ['gensim', 'libsvm', 'xgboost', 'liblinear']
+pygame --- []
+filesystems --- ['xfs']
+thread-safety --- []
+gmail --- []
+uitextfield --- ['textfield']
+firefox-addon --- []
+xcode6 --- []
+google-play  has no category!*****************************
+queue --- ['fifo', 'blockingqueue']
+django-views is not in the model!-------------------------------------------------------------------
+shiny --- []
+in-app-purchase --- []
+webkit --- ['qtwebkit']
+dart --- ['elm', 'coffeescript', 'scala']
+entity-framework-6  has no category!*****************************
+polymorphism --- []
+continuous-integration  has no category!*****************************
+arguments --- []
+django-admin --- []
+xhtml --- []
+icons --- []
+vagrant --- ['chef-solo', 'virtualbox', 'docker-compose']
+dataset  has no category!*****************************
+kernel --- []
+sbt --- ['maven', 'leiningen', 'ant', 'scons']
+broadcastreceiver --- []
+async-await --- []
+ip  has no category!*****************************
+phpunit --- ['behat', 'mink', 'rspec', 'mocha', 'codeception']
+cors --- []
+phantomjs  has no category!*****************************
+compare  has no category!*****************************
+polymer --- []
+styles  has no category!*****************************
+jquery-validate --- ['bootstrapvalidator', 'formvalidation.io', 'knockout-validation']
+escaping --- []
+jpanel --- []
+windows-installer  has no category!*****************************
+migration --- []
+locking --- []
+debian --- ['rhel', 'fedora', 'ubuntu', 'gentoo', 'freebsd']
+zip --- ['rar']
+pthreads --- []
+oracle10g --- ['oracle9i']
+laravel-5.2 --- []
+angularjs-ng-repeat is not in the model!-------------------------------------------------------------------
+singleton --- ['facade']
+nlp --- []
+twig --- ['smarty', 'thymeleaf']
+android-gradle --- []
+content-management-system --- []
+java-me --- ['bada', 'cldc']
+sms --- []
+cygwin --- []
+gtk --- []
+embedded --- []
+linq-to-entities  has no category!*****************************
+uikit --- ['cocoa']
+certificate --- []
+tinymce --- []
+rabbitmq --- ['zeromq']
+computer-vision --- []
+append  has no category!*****************************
+user --- []
+imagemagick --- ['gd', 'ghostscript']
+hex  has no category!*****************************
+google-visualization  has no category!*****************************
+.net-3.5  has no category!*****************************
+swift3  has no category!*****************************
+alignment  has no category!*****************************
+django-rest-framework --- ['fosrestbundle']
+base64  has no category!*****************************
+package  has no category!*****************************
+less --- []
+repository --- []
+app-store --- []
+subquery --- []
+full-text-search  has no category!*****************************
+maps  has no category!*****************************
+neural-network --- []
+load  has no category!*****************************
+compression --- ['decompression']
+usb --- []
+applescript --- ['textmate', 'vbscript', 'autoit']
+odbc --- []
+webserver --- []
+web-crawler --- ['web-scraping']
+sonarqube --- ['teamcity', 'checkstyle']
+printf --- ['sscanf', 'scanf']
+firebase-database --- []
+xcode4 --- []
+rust --- ['f#', 'haskell', 'racket', 'c++', 'ocaml', 'scala', 'vala']
+fluent-nhibernate  has no category!*****************************
+key --- ['guid']
+apache-camel --- ['errai', 'spring-jms']
+apple-push-notifications is not in the model!-------------------------------------------------------------------
+export --- []
+localhost --- []
+pip --- []
+label  has no category!*****************************
+ejb --- []
+pattern-matching  has no category!*****************************
+scheme --- []
+type-conversion  has no category!*****************************
+jquery-animate is not in the model!-------------------------------------------------------------------
+tensorflow --- ['caffe', 'theano', 'lasagne', 'scikit-learn', 'xgboost']
+uwp --- ['winjs', 'silverlight']
+extjs4  has no category!*****************************
+install --- []
+interface-builder --- []
+html-table  has no category!*****************************
+refactoring --- []
+double --- []
+xamarin.forms --- []
+admob --- []
+http-post --- ['http']
+fragment  has no category!*****************************
+sitecore --- ['kentico', 'dotnetnuke', 'umbraco', 'aem']
+apache2 --- []
+jetty --- ['grizzly']
+protractor --- ['qunit', 'capybara', 'cucumberjs', 'jasmine', 'mocha']
+comparison  has no category!*****************************
+malloc --- ['calloc', 'strdup', 'memset', 'realloc']
+client --- []
+salesforce --- []
+jms --- []
+ruby-on-rails-3.1  has no category!*****************************
+maven-2 --- ['flexmojos', 'maven-3']
+devexpress --- []
+uilabel --- ['uibutton']
+many-to-many  has no category!*****************************
+silverlight-4.0 --- []
+mapping --- []
+touch --- []
+android-widget  has no category!*****************************
+range  has no category!*****************************
+wxpython --- ['wxwidgets']
+streaming --- []
+ibm-mobilefirst  has no category!*****************************
+video-streaming --- []
+logic  has no category!*****************************
+focus --- []
+subprocess --- ['pexpect']
+pipe --- []
+liferay  has no category!*****************************
+closures --- []
+themes  has no category!*****************************
+latex --- ['knitr', 'pandoc']
+syntax-error --- []
+composer-php is not in the model!-------------------------------------------------------------------
+runtime --- []
+multiprocessing --- []
+authorization --- ['authentication']
+mule --- []
+operator-overloading --- []
+xmpp --- ['mqtt', 'smpp']
+global-variables  has no category!*****************************
+signalr --- []
+uitabbarcontroller --- ['uinavigationcontroller', 'uisplitviewcontroller']
+report --- []
+kendo-grid --- ['jqxgrid']
+cucumber --- ['behat', 'capybara', 'rspec', 'cucumber-jvm', 'jasmine', 'minitest', 'mocha', 'specflow']
+gson --- ['flexjson', 'xstream', 'jackson', 'json.net', 'org.json']
+nuget --- []
+pdf-generation --- []
+nsmutablearray --- ['nsnumber']
+qt4  has no category!*****************************
+c++-cli  has no category!*****************************
+css-float  has no category!*****************************
+iteration  has no category!*****************************
+wordpress-theming is not in the model!-------------------------------------------------------------------
+registry --- []
+output --- ['stdout']
+fullcalendar --- ['bootstrap-datepicker', 'bootstrap-datetimepicker']
+ssrs-2008 --- []
+64bit --- []
+installer --- []
+jax-rs --- []
+swt --- ['swing', 'jface', 'rcp', 'lwuit', 'vaadin', 'awt']
+size  has no category!*****************************
+apache-poi --- ['docx4j', 'epplus', 'jxls']
+nsarray --- []
+client-server --- []
+fancybox --- ['photoswipe', 'nyromodal', 'colorbox', 'qtip', 'thickbox']
+sails.js --- []
+height --- ['font-size', 'width']
+out-of-memory --- []
+awt --- ['swing', 'swt']
+titanium --- []
+itext  has no category!*****************************
+hbase --- []
+operators  has no category!*****************************
+progress-bar --- []
+runtime-error --- []
+automated-tests is not in the model!-------------------------------------------------------------------
+environment-variables --- []
+tomcat7 --- ['tomcat5.5', 'tomcat8', 'tomcat6']
+handlebars.js --- ['hogan.js']
+ms-access-2010  has no category!*****************************
+media-queries --- []
+mongodb-query  has no category!*****************************
+qml --- ['xaml', 'mxml']
+bit-manipulation  has no category!*****************************
+wpf-controls is not in the model!-------------------------------------------------------------------
+underscore.js --- ['handlebars.js', 'knockout.js']
+tuples  has no category!*****************************
+substring  has no category!*****************************
+data.table --- []
+pivot --- ['unpivot']
+clang  has no category!*****************************
+lisp  has no category!*****************************
+tdd  has no category!*****************************
+cross-domain --- []
+ember-data --- ['ember-cli']
+try-catch  has no category!*****************************
+android-webview  has no category!*****************************
+websphere --- []
+expression  has no category!*****************************
+android-camera is not in the model!-------------------------------------------------------------------
+tcl --- []
+html5-video --- []
+osgi --- []
+associations --- []
+2d  has no category!*****************************
+spring-data --- ['spring-data-jpa', 'spring-data-mongodb', 'spring-data-rest']
+akka --- []
+shared-libraries --- []
+nunit --- ['testdriven.net', 'mbunit', 'junit', 'xunit.net', 'mspec', 'specflow']
+drawing --- []
+character  has no category!*****************************
+openerp --- ['openerp-7', 'odoo']
+database-connection --- []
+textarea --- ['textbox']
+asp.net-web-api2 is not in the model!-------------------------------------------------------------------
+sinatra --- []
+jsoup --- []
+jstl --- ['jsf', 'struts2', 'thymeleaf', 'displaytag']
+sencha-touch --- ['nativescript', 'qooxdoo', 'enyo']
+constraints  has no category!*****************************
+flexbox --- []
+width --- ['font-size', 'height']
+ipython --- []
+tooltip --- ['datepicker', 'popup', 'popover', 'scrollbar']
+local-storage  has no category!*****************************
+ionic --- []
+tableview --- []
+uml --- []
+preg-replace --- []
+httpwebrequest --- ['urlconnection', 'webrequest', 'webclient']
+android-service --- []
+win-universal-app is not in the model!-------------------------------------------------------------------
+cloud --- []
+ssl-certificate  has no category!*****************************
+sharedpreferences --- []
+comments --- []
+max  has no category!*****************************
+google-play-services --- []
+android-sqlite  has no category!*****************************
+weblogic --- []
+
