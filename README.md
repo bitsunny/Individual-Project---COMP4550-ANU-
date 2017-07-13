@@ -16,3 +16,7 @@ Libraries required:
 2.stduy word2vec and try to train a model to find similiar words and word's vector
 3.discuss with jixuan about operating big file which is about use time to change memory, but have not do it.
 the file is word2vec_tags.py, train_t2v.txt and allcategory_grouping.exel
+
+###7.6-7.13
+1.update category grouping(allcategory_grouping.exel)
+2.use word2vec model get 1000 tags' similiar tags(in the same grouping category)(word2vec.py and the result of word2vec(1000).txt)
