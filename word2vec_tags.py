@@ -1,6 +1,6 @@
 import gensim.models.word2vec as w2v
 
-# shuai: import the EXCEL library
+# import the EXCEL library
 import xlrd
 
 class MySentences(object):
@@ -18,7 +18,6 @@ class MySentences(object):
 ##myModel = w2v(sentences)
 
 
-## modified by shuai:
 words = []
 alltags = []
 processed_category = {}
@@ -35,7 +34,7 @@ def read_file(file):
     global allcategory_grouping
 
     alltags_F = open(file[0], "r")
-    processed_category_F = open(file[1], "r", encoding = 'gbk') # shuai: avoid the encoding problem
+    processed_category_F = open(file[1], "r", encoding = 'gbk') # avoid the encoding problem
     allcategory_grouping_F = xlrd.open_workbook(file[2])
     words_F = open(file[3], "r")
 
