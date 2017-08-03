@@ -2,6 +2,7 @@ import gensim.models.word2vec as w2v
 
 # import the EXCEL library
 import xlrd
+import re
 
 class MySentences(object):
     def __init__(self, alltags_sentences):
@@ -22,11 +23,14 @@ words = []
 alltags = []
 processed_category = {}
 allcategory_grouping = []
+sentences = []
+sets = []
 
 def read_file(file):
 
     for i in range(len(file)):
-        file[i] = '/Users/songshuaichen/PycharmProjects/word2vec/' + file[i]
+        file[i] = '/media/gm/系统/mm/word2vec/' + file[i]
+        # file[i] = '/home/gm/Downloads/word2vec/' + file[i]
 
     global words
     global alltags
@@ -37,6 +41,8 @@ def read_file(file):
     processed_category_F = open(file[1], "r", encoding = 'gbk') # avoid the encoding problem
     allcategory_grouping_F = xlrd.open_workbook(file[2])
     words_F = open(file[3], "r")
+
+
 
     while True:
         line = alltags_F.readline()
@@ -90,6 +96,8 @@ def inTags(tags):
             filtered_tags.append(i)
     return filtered_tags
 
+
+
 def find_category(tags):
 
     global processed_category
@@ -120,16 +128,45 @@ def grouping(category_i, cat_dic):
             related_tags.append(j)
     return related_tags
 
+sentences = []
+
+def read_sentence(path):
+
+	global sentences
+
+	file = open(path, 'r')
+	while True:
+		line = file.readline()
+		if not line:
+			break
+		temp = line.split('\t')
+		sentences.append(temp[1])
+
+	for i in sentences:
+		print(i)
+
+def sentences_divided():
+
+
+
 if __name__ == "__main__":
     model = w2v.Word2Vec.load('myModel')
 
     read_file(['alltags.txt','processed_category.txt','allCategory_grouping.xlsx','a.txt'])
 
+    read_sentence('/home/gm/Downloads/tagWiki.txt')
+
+    no_category = 0
+    no_word = 0
+
+    global sets
+
     for i in words:
         try:
             category_i = processed_category[i]
         except KeyError:
-            print(i+ "  has no category!*****************************")
+            ## print(i+ "  has no category!*****************************")
+            no_category += 1
             continue
         tags_1 = model_compare(model, i)
         if tags_1 == []:
@@ -137,7 +174,20 @@ if __name__ == "__main__":
         tags_2 = inTags(tags_1)
         cat_dic = find_category(tags_2)
         related_tags = grouping(category_i, cat_dic)
-        print(i + ' --- ' + str(related_tags))
+
+        if related_tags != []:
+
+            related_tags.append(i)
+            sets.append(related_tags)
+
+        else:
+            no_word += 1
+
+    print("no category: " + str(no_category))
+    print("no word: " + str(no_word))
+
+    for i in sets:
+        print(str(i))
 
 
     # get the word vector
