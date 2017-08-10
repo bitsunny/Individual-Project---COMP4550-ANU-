@@ -29,7 +29,7 @@ sets = []
 def read_file(file):
 
     for i in range(len(file)):
-        file[i] = '/media/gm/系统/mm/word2vec/' + file[i]
+        file[i] = '/Users/songshuaichen/PycharmProjects/word2vec/' + file[i]
         # file[i] = '/home/gm/Downloads/word2vec/' + file[i]
 
     global words
@@ -145,16 +145,13 @@ def read_sentence(path):
 	for i in sentences:
 		print(i)
 
-def sentences_divided():
-
-
 
 if __name__ == "__main__":
     model = w2v.Word2Vec.load('myModel')
 
-    read_file(['alltags.txt','processed_category.txt','allCategory_grouping.xlsx','a.txt'])
+    read_file(['alltags.txt','processed_category.txt','allCategory_grouping.xlsx','tagFrequency.txt'])
 
-    read_sentence('/home/gm/Downloads/tagWiki.txt')
+    read_sentence('/Users/songshuaichen/PycharmProjects/unt/Input/tagWiki.txt')
 
     no_category = 0
     no_word = 0
