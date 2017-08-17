@@ -11,14 +11,11 @@ class MySentences(object):
 
     def __iter__(self):
         for fname in os.listdir(self.dirname):
-            for line in open(os.path.join(self.dirname, fname)):
+            for line in open(os.path.join(self.dirname, fname), encoding='windows-1252'):
                 yield line.split()
 
-sentences = MySentences('F:/training_set_quadgram')  # a memory-friendly iterator
+sentences = MySentences('/Users/songshuaichen/Downloads/Tag')  # a memory-friendly iterator
 
 model = gm.word2vec.Word2Vec(sentences, size = 200, window = 5, min_count = 20, workers = 8)
-model.save('F:/model_quadgram_normal/myModel')
-
-model = gm.word2vec.Word2Vec(sentences, size = 200, window = 5, min_count = 50, workers = 8)
-model.save('F:/model_quadgram_version/myModel')
+model.save('/Users/songshuaichen/Downloads/myModel')
 

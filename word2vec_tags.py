@@ -4,21 +4,6 @@ import gensim.models.word2vec as w2v
 import xlrd
 import re
 
-class MySentences(object):
-    def __init__(self, alltags_sentences):
-        self.alltags_sentences = alltags_sentences
-
-    def __iter__(self):
-        for fn in self.alltags_sentences:
-            with open(fn, 'r') as f:
-                for line in f:
-                    yield line.split()
-
-
-## sentences = MySentences('/Users/songshuaichen/Desktop/alltags_sentences.txt')  # a memory-friendly iterator
-##myModel = w2v(sentences)
-
-
 words = []
 alltags = []
 processed_category = {}
@@ -150,8 +135,6 @@ if __name__ == "__main__":
     model = w2v.Word2Vec.load('myModel')
 
     read_file(['alltags.txt','processed_category.txt','allCategory_grouping.xlsx','tagFrequency.txt'])
-
-    read_sentence('/Users/songshuaichen/PycharmProjects/unt/Input/tagWiki.txt')
 
     no_category = 0
     no_word = 0
